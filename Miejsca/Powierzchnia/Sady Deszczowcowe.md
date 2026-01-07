@@ -1,0 +1,1 @@
+Bijące serce Krainy. Sady dają pokarm regionowi oraz różne towary i półprodukty z drzew. Zaniedbane korzenie drzew deszczowych jednak szybko stają się gniazdem dla potworów.

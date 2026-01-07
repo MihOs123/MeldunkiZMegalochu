@@ -1,4 +1,5 @@
-#### Rynek Główny
+**Miejsce - Bragaróg**
+
 Na środku stoi oryginalny posąg Wiedźmo-Króla Zariaszka. Brakuje mu głowy (usunięta przez Hegemonię).
 
 Cały rynek wybrukowany jest elementami zbroi, okazjonalnie zaznajomione oko znajdzie nawet fragment kości. Mało kto wie że są to zbroje i kości Złydnych.

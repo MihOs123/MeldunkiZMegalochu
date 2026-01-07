@@ -1,3 +1,5 @@
+**Miejsce - Bragaróg**
+
 Popularna całkiem duża arena. Zbudowana w czasach Zariaszka.
 
 3 "piętrowe" koloseum.

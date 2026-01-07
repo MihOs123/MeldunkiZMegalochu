@@ -1,0 +1,1 @@
+Od setek lat mroczna i straszna. Niegdyś istniało tam starożytne miasto Wędrakur. Ludzie przestali się do niej zapuszczać gdy siły Hegemonii ścieły i wypaliły Wielkie Drzewo w jej sercu.
