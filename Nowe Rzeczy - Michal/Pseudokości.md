@@ -24,3 +24,8 @@ Kamień - Brak numerów. Zawsze da 10 punktów.
 Drewno - Nie liczy się do limitu wystawianych kości ani trzymanych w ręce.
 Metal - Można traktować jako kość o numerze 1 większym.
 Kryształ - Mnoży ostateczne punkty na koniec rundy razy dwa.
+
+House - 80
+Mały Strit - kombinacja kości od 1 do 5 - 100
+Duży Strit - kombinacja kości od 1 do 6 - 120
+Czwórka - Suma kości w układzie x 4
