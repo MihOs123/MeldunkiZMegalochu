@@ -1,0 +1,3 @@
+**Miejsce - Bragaróg**
+
+Pod miastem w dzielnicy biedoty (w tej starożytnej części) znajduje się duża szeroka ściana z (insert (crazy) kamień) na której były by wypisane setki imion, teraz stoi tam jakiś zawszony bar i na ścianie jest zapisywany black list dla pojebow. W tym barze prowadzone były by też jakieś szemrane biznesy i były by koneksje na czarny rynek(?). Właściciel to Bibli Baj Jon, kulawy i z przepaską na oko (ma oko ale udaje że nie ma)
