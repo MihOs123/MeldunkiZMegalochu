@@ -1,7 +1,7 @@
 Nie można używać do pseudokości bylejakich kości.
 Trzeba mieć worek kości. Pseudokości są od 4 do 20
 
-Gra jest prosta. 
+Przebieg:
 1 - Jeżeli gracz nie ma na ręce kości wyciąga je z worka żeby mieć pięć (losowo lub nie). Jeżeli nie ma automatycznie pasuje
 2 - Każdy rzuca kośćmi
 3 - Wystawia 1-5 kości i coś obstawia albo pasuje. Wystawione kości są odrzucone na bok, pozostałe zostają na ręce
