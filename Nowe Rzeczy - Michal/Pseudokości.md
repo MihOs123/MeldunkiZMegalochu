@@ -23,4 +23,4 @@ Kość - Bazowy materiał, brak efektów.
 Kamień - Brak numerów. Zawsze da 10 punktów.
 Drewno - Nie liczy się do limitu wystawianych kości ani trzymanych w ręce.
 Metal - Można traktować jako kość o numerze 1 większym.
-Kryształ - Mnoży ostateczne punkty na koniec rundy razy dwa
+Kryształ - Mnoży ostateczne punkty na koniec rundy razy dwa.
