@@ -2,4 +2,4 @@ Stara porzucona cysterna, przerobiona przez Kult Molocha na wielopiętrowe kasyn
 
 Sala Hazardzistów jest jednym z głównych źródłem dochodów dla Kultu.
 
-Można grać tu w Pseudokości, Balatro i kupić bilet na loterie. (Można dodać inne minigierki też)
+Można grać tu w Pseudokości, i kupić bilet na loterie. (Można dodać inne minigierki też)
