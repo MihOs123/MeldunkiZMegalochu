@@ -15,4 +15,3 @@ Miasto otoczone jest murem z którego można wyjść przez Bramę Habubową, Bra
 Władze rozkazały budowę megadziury w dół żeby przebić się do Zawiniętych Ziem i otworzyć jakieś fajne szlaki handlowe (???)
 
 Najstarsze części miasta zbudowane są z cegieł lub kamienia wulkanicznego. Części zbudowane przez Hegemonie z kamienia importowanego a części współczesne strikte z lokalnego kamienia
-## Lokacje
