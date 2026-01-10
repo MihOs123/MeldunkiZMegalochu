@@ -8,4 +8,4 @@ Na tym terenie ze względu na dużą ilość trucheł oraz śmierdzącego trola 
 
 moja wizja trola:
 https://pl.pinterest.com/pin/3870349675308769/
-https://pl.pinterest.com/pin/41517627811622853/
+https://pl.pinterest.com/pin/41517627811622853/ *
