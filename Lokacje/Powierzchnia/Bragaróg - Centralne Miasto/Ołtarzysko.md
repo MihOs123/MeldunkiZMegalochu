@@ -1,3 +1,6 @@
+**Miejsce - Bragaróg**
+Okolica: [[Rynek Głowny]]
+
 Niespecyficzna świątynia, jest tu kilka prywatnych salek z ołtarzami, jest jedna większa taka centralna. Jest dużo jakichś dywanów i kotar na ścianach w głównej sali za którymi są emblematy panteonu Hegemonii i Perlyny.
 
 W Ołtarzysku można medytować lub modlić się do kogokolwiek w głównej sali albo wynająć prywatną salkę do rytuałów.
