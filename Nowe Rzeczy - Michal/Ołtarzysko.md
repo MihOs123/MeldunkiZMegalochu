@@ -1,1 +1,1 @@
-wip
+światynia typu ogolna gdzie sa nie-specyficzne ołtarze i mozna sie modlic do kogokolwiek
