@@ -14,4 +14,6 @@ Miasto otoczone jest murem z którego można wyjść przez Bramę Habubową, Bra
 
 Władze rozkazały budowę megadziury w dół żeby przebić się do Zawiniętych Ziem i otworzyć jakieś fajne szlaki handlowe (???)
 
-Najstarsze części miasta zbudowane są z cegieł lub kamienia wulkanicznego. Części zbudowane przez Hegemonie z kamienia importowanego a części współczesne strikte z lokalnego kamienia
+Najstarsze części miasta zbudowane są z czerwonych cegieł (glinianych) lub czarnego wulkanitu. 
+Części zbudowane przez Hegemonie z importowanego Mlekowca
+Części współczesne strikte z Błotowca
