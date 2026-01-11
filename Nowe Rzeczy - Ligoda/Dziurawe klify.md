@@ -1,6 +1,6 @@
 **Miejsce - Loch**
 
-Wielka ściana klifów z "żółtego" kamienia na wysokość 50-100m
+Wielka ściana klifów z "insert (kamień)" kamienia na wysokość 50-100m
 
 Na ścianie klifu rosną nieduże drzewa z wodnistymi owocami owocami. Znajduje się tam też dużo jaskiń, często połączonych w większy system. W jaskiniach można znaleźć metale lub nawet kryształy, są one także zamieszkałe przez wielkie robale które swoje gniazda często zakładają w okolicach jezior jaskiniowych. 
 
