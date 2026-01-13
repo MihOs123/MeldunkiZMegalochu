@@ -1,5 +1,7 @@
 **Miejsce - [[Bragaróg - Centralne Miasto]]**
 
-Pod miastem w dzielnicy biedoty (w tej starożytnej części) znajduje się duża szeroka ściana z (insert (crazy) kamień) na której były by wypisane setki imion, teraz stoi tam jakiś zawszony bar i na ścianie jest zapisywany black list dla pojebow. W tym barze prowadzone były by też jakieś szemrane biznesy i były by koneksje na czarny rynek(?). Właściciel to Bibli Baj Jon, kulawy i z przepaską na oko (ma oko ale udaje że nie ma)
+Pod miastem w dzielnicy biedoty (w tej starożytnej części) znajduje się duża szeroka ściana z (insert (crazy) kamień) na której są by wypisane setki imion, teraz stoi tam jakiś zawszony bar tj. Dom śpiących 
 
-to do: plik o barze (dom śpiących michała?)
+Wewnątrz kamienia jest swego rodzaju masowy grób/grobowiec a ciała są ładnie poukładane na pułeczkach. Wejście kiedyś było od boku ale jest zacementowana płyta w drzwi wsadzona i sie wyróżnia to troche.
+
+Może to sie łączyć z lochem a szkielety mogą żyć
