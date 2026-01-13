@@ -1,3 +1,5 @@
+Sąsiedzi [[Rynek Głowny]]
+
 Tawerna przy rynku głównym. Bardzo popularna, zazwyczaj pękająca w szwach. Jest całkiem obszerna z prywatnymi pokojami, pięterkiem i dancefloorem. Każdy gość czuje tutaj przyjemne zapachy które przypominają mu dom (efekt magicznego artefaktu).
 
 Można wynająć tu pokoje, zazwyczaj jest kilka dostępnych.

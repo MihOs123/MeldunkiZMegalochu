@@ -1,4 +1,5 @@
 **Miejsce - Bragaróg**
+Łączy się z jedną z bram przez [[Aleja Habubowa|Aleje Habubową]]
 
 Na środku stoi oryginalny posąg Wiedźmo-Króla Zariaszka. Brakuje mu głowy (usunięta przez Hegemonię).
 
