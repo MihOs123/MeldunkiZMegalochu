@@ -11,12 +11,13 @@ Gra się kończy gdy każdy spasuje
 
 **PUNKTACJA ZA UKŁADY**
 Wysoka kość - Kość 
-Para - Kość x 2
-Trójka - Kość x 3
+Para - Suma(Kość) x 2
+Trójka - Suma(Kość) x 3
 Dwie Pary - 50
-Czwórka - Kość x 4
-House - 100
-Strit - 120
+Czwórka - Suma(Kość) x 4
+House - 80
+Mały Strit - kombinacja kości od 1 do 5 - 100
+Duży Strit - kombinacja kości od 2 do 6 - 120
 Piątka - 150
 **EFEKTY PUNKTUJĄCYCH KOŚĆI W ZALEŻNOŚCI OD MATERIAŁU**
 Kość - Bazowy materiał, brak efektów.
@@ -24,8 +25,3 @@ Kamień - Brak numerów. Zawsze da 10 punktów.
 Drewno - Nie liczy się do limitu wystawianych kości ani trzymanych w ręce.
 Metal - Można traktować jako kość o numerze 1 większym.
 Kryształ - Mnoży ostateczne punkty na koniec rundy razy dwa.
-
-House - 80
-Mały Strit - kombinacja kości od 1 do 5 - 100
-Duży Strit - kombinacja kości od 1 do 6 - 120
-Czwórka - Suma kości w układzie x 4 (możliwe ze do kazdej tz para trojka to jest dobey pomysl)
