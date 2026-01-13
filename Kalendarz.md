@@ -9,7 +9,7 @@ Dzieli czasy na ery, oparte na wielkich, istotnych wydarzeniach dla Czudzkiego s
 
 **Pierwsza Era** | Od -1000 do 0 | Od początku świata do upadku Demiurga.
 **Druga Era** | Od 0 do 2000 | Od upadku Demiurga do powstania Czudzkiej Hegemonii Północnej.
-**Trzecia Era** | Od 2000 do teraz | Od powstania [[Hegemonia|Hegemonii]] do teraz.
+**Trzecia Era** | Od 2000 do teraz | Od powstania Hegemonii do teraz.
 #### Wydarzenia
 3E 753 (2753) - Kłopoty w Państwie Lechitów
 3E 779 (2779) - Potwór z Tarinu

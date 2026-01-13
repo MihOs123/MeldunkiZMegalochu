@@ -1,4 +1,6 @@
-Łączy [[Rynek Główny]] i Bramę Habubową. Jest tutaj tawerna [[Druga Szansa]].
+Sąsiedzi: [[Rynek Główny]], [[Brama Habubowa]], [[Druga Szansa]], [[Krwawa Misa]]
+
+Łączy [[Rynek Główny]] i [[Brama Habubowa]]. Jest tutaj tawerna [[Druga Szansa]].
 
 Jest tutaj wiele warsztatów tkackich i sklepów tworzących rzeczy z Habubów i Owoców Deszczowych. Wszędzie tutaj śmierdzi (pachnie) od bimbrowni i płynów zmiękczających Habuby.
 

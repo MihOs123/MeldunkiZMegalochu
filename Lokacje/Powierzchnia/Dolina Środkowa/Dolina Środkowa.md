@@ -1,1 +1,1 @@
-Dolina między Bragarogiem a Gastakarem 
+Dolina między Bragarogiem a Gastakarem. Kiedyś były tu farmy, nadal można znaleźć okazjonalne kamienie które były fundamentami chat. Rosną tu sporadyczne drzewa stepowe (podobne do akacji takie z dachem z liści)

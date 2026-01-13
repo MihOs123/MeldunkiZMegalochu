@@ -1,4 +1,4 @@
-Jest to kreatura podobna do [[Złydni|Złydnego]]. Powiązana z ich bogiem [[Gar'fug|Gar'fugiem]]
+Jest to kreatura podobna do Złydnego. Powiązana z ich bogiem Gar'fugiem
 
 Cechy (Work in Progress)
 Tarzan: Kamienna Skóra
