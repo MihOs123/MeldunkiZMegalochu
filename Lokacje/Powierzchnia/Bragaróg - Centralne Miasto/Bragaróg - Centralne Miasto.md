@@ -2,7 +2,7 @@ Założone bardzo dawno i przez wiele lat władane przez Wedźmo-Króla Zariaszk
 
 Zbudowane jest na źródle rzeki. Oryginalnie zbudowane było na planie kręgu magicznego ale Hegemonia dokonała kilku przebudów.
 
-Władze sprawuje tu [[Klan Deszczowców]].
+Władze sprawuje tu Klan Deszczowców.
 
 Pod miastem są pozostałości poprzednich zabudowań. Mieszka tam głównie biedota, która przegrała na upadku wybrzeżnych miast.
 

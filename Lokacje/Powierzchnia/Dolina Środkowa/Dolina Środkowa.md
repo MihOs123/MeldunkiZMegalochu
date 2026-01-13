@@ -1,0 +1,1 @@
+Dolina między Bragarogiem a Gastakarem 

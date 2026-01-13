@@ -2,7 +2,7 @@ Klan wygnanych czudów wertolińskich, który po wydostaniu się na powierzchnie
 ### Postacie
 Matriarcha - Bezwzględna, ale sprawiedliwa władczyni regionu 
 Ur-Kapłan - Arcymag ambitny w magii. Niezainteresowany światem siedzi zamknięty w swojej wieży.
-Wódz - Syn matriarchy, lojalny i zdolny wojownik
+Kapitan Straży - Syn matriarchy, lojalny i zdolny wojownik
 Dziedziczka - Córka matriarchy, crazy ass evil
 ### Sytuacja / Plany / Motywacje
 Matriarcha jest świadoma zagrożenia ze strony innych frakcji oraz lochu, ale wie też jak duże zyski mogą iść z lochu. Dopóki któraś frakcja nie zmieni jej zdania ona pozwoli działać i eksplorować loch.

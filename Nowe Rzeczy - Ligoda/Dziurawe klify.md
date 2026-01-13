@@ -1,8 +1,9 @@
 **Miejsce - Loch**
+Trzeba gdzieś to wsadzić pod coś jak sie więcej o lochu napisze
 
 Wielka ściana klifów z "insert (kamień)" kamienia na wysokość 50-100m
 
-Na ścianie klifu rosną nieduże drzewa z wodnistymi owocami owocami. Znajduje się tam też dużo jaskiń, często połączonych w większy system. W jaskiniach można znaleźć metale lub nawet kryształy, są one także zamieszkałe przez wielkie robale które swoje gniazda często zakładają w okolicach jezior jaskiniowych. 
+Na ścianie klifu rosną nieduże drzewa z wodnistymi owocami. Znajduje się tam też dużo jaskiń, często połączonych w większy system. W jaskiniach można znaleźć metale lub nawet kryształy, są one także zamieszkałe przez wielkie robale które swoje gniazda często zakładają w okolicach jezior jaskiniowych. 
 
 Na większych drzewach lub na półkach skalnych swoje gniazda miały by rodziny harpii(?)
 

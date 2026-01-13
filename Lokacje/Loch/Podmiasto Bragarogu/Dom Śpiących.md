@@ -1,6 +1,8 @@
+Sąsiad: [[Ściana Imion]]
+
 Bar w jednej z podmiejskich dzielnic, zbudowany został o Ściana imion która kiedyś wspominała umarłych a aktualnie służy jako designowa ściana baru.
 
-W barze tym jest zasada żeby sie nie unosić, a jak ktoś za bardzo zwraca na siebie uwage i robi raban to dostaje przekope. W barze tym prowadzone są prowadzone szemrane biznesy.
+W barze tym jest zasada żeby sie nie unosić, a jak ktoś za bardzo zwraca na siebie uwage i robi raban to dostaje przekope. W barze tym prowadzone są prowadzone szemrane biznesy - jest to jeden z punktów spotkań i handlu kraniometrystów.
 
 Ponadto większość gości w barze to stali bywalcy więc już na start mogą nie przychylnie patrzeć na nowych gości.
 
