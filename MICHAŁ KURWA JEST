@@ -1,6 +1,0 @@
-#include <io.steam>
-
-int main()
-{
-printf("LIRERKA A LITERKA B LITERA G NAJLEPSZY ABG LALALALA");
-}
