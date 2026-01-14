@@ -1,3 +1,5 @@
 Sąsiad: [[Ołtarzysko]]
 
-Dziura ktorą próbują dokopać się do podziemi. Zburzono specjalnie biedniejsze dzielnice na to (biedacy przeniesieni pod ziemie)
+Dziura która ma otworzyć drogę do handlu z Zawiniętymi Ziemiami.
+
+W miejscu budowy odwiertu stała dzielnica biedoty. Większość z biedaków w niej mieszkających przeniosło się do Podmiasta.

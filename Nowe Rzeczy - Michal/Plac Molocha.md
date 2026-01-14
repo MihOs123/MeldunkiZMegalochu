@@ -1,4 +1,4 @@
-Sąsiad: [[Wielki Odwiert]]
+**Sąsiad:** [[Wielki Odwiert]]
 
-Wejście do podmiasta przez wielki odwiert
+Główne, najbardziej otwarte wejście do podmiasta.
 

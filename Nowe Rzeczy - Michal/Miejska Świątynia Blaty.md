@@ -1,1 +1,1 @@
-Sąsiedzi: [[Wyższy Dystrykt]], [[Krwawa Misa]], [[Ołtarzysko]]
+**Sąsiedzi:** [[Wyższy Dystrykt]], [[Krwawa Misa]], [[Ołtarzysko]]

@@ -1,3 +1,5 @@
+> [!danger] Opis regionu
+
 W mieście zniszczonym przez wojny i wulkan, kapłani Blaty utrzymują porządek nieumarłymi sługami.
 
 Podpisano tu oba akordy pokoju.
