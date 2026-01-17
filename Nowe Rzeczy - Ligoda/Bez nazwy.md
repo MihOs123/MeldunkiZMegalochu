@@ -1,0 +1,1 @@
+dziki wierzchowiec, mali przyjaciele, wodzowie
