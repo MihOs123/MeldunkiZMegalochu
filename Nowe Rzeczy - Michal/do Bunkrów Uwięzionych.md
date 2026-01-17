@@ -21,7 +21,7 @@ Lokacje (żeby nie spamić plikami):
 - Szpital
 - Urzędy / Mieszkania elit
 - Mieszkania
-- Sala centralna publiczna - fałszywy prorok / wrogi czar / zaklęci wojownicy / chochliczy handlarz
+- [[Sala Centralna]]
 - Stołówki / Bary
 - Cysterna podłączona do wodonośca (i współczesnych cystern?)
 - Kuźnia
