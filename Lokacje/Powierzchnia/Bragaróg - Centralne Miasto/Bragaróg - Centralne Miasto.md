@@ -19,3 +19,11 @@ Władze rozkazały budowę megadziury w dół żeby przebić się do Zawiniętyc
 Najstarsze części miasta zbudowane są z czerwonych cegieł (glinianych) lub czarnego wulkanitu. 
 Części zbudowane przez Hegemonie z importowanego Mlekowca
 Części współczesne strikte z Błotowca
+
+### Składniki Alchemiczne
+
+| Nazwa             | Rzadkość  | Typ     | Efekt      |
+| ----------------- | --------- | ------- | ---------- |
+| Algi Kanałowe     | Pospolita | Roślina | Smród I    |
+| Liście Deszczowca | Pospolita | Roślina | Trucizna I |
+| Alejowy Grzybek   | Pospolita | Grzyb   | Spokój I   |

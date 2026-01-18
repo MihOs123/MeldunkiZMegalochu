@@ -6,7 +6,7 @@ Jednym z zamkniętych tutaj klanów był Klan Deszczowców.
 
 Bunkry oryginalnie zostały ogołocone zaraz po otworzeniu się na powierzchnie, działania lochu jednak je odnowiły i ponownie wypełniły skarbami żeby zachęcić podróżników.
 
-Jest to dynamiczny region lochu
+Jest to pół-dynamiczny region lochu
 
 Lokacje (żeby nie spamić plikami):
 - Sekretne przejścia na powierzchnie / do ścieków
@@ -36,6 +36,16 @@ Zagrożenia:
 - Wrodzy szabrownicy
 Wstępna mapa (niektóre lokacje będą stałe):
 ![[Pasted image 20260117010647.png]]
+
+### Składniki Alchemiczne
+
+| Nazwa            | Rzadkość     | Typ     | Efekt                   |
+| ---------------- | ------------ | ------- | ----------------------- |
+| Pulchny Kapelusz | Pospolita    | Grzyb   | Sycenie I               |
+| Siarka           | Pospolita    | Minerał | Dym I                   |
+| Porost Lochowy   | Niepospolita | Roślina | Leczenie I              |
+| Olejec           | Niepospolita | Grzyb   | Smar I, Sycenie I       |
+| Świecz Lochowy   | Rzadka       | Roślina | Świadomość I, Światło I |
 ### Tymczasowe
 Gdy gracze wejdą do tego regionu po raz pierwszy będą mogli zebrać ze sobą naprawdę nieludzkie gargantuiczne sumy pieniędzy. Gdy wyjdą muszą zostać dorwani przez straż która im zarekwiruje większość jako podatek (i dlatego że to własność klanu teorytycznie).
 
