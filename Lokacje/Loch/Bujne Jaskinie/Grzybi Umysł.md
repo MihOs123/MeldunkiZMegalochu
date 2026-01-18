@@ -1,4 +1,4 @@
-Lokalizacja: Wyjałowione Tunele
+Loch: [[Bujne Jaskinie]]
 
 Roślinność jest tu jakby zgnita, cała brązowa i śmierdząca, w niekończącym się stanie rozkładu. Chodząc po tunelach można tu znaleźć truchła, a raczej zbitki mięska które porastają wyjątkowo ładnie pachnące grzyby którym ciężko się oprzeć, grzyby te w małych ilościach są nieszkodliwe jednak przy troszkę większych dawkach powodują bezsenność, halucynacje i potencjalne bóle głowy, zjedzenie dużej ilości może doprowadzić do zawału.
 
