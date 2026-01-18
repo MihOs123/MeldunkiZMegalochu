@@ -1,4 +1,4 @@
-w kopalni miedzi
+Loch: [[Kopalnie Miedzi]]
 Rozległa jaskinia bardzo bogata w surowce.
 
 Znajdują się tam budynki zrobione z kamieni, vibe taki wikingowy jeśli chodzi o budowę tylko że głównie kamień i skóry jakieś.
