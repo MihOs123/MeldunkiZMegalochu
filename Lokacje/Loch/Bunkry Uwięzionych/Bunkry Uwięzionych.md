@@ -23,11 +23,11 @@ Lokacje (żeby nie spamić plikami):
 - Mieszkania
 - [[Sala Centralna]]
 - Stołówki / Bary
-- Cysterna podłączona do wodonośca (i współczesnych cystern?)
+- [[Bunkrowa Cysterna]] (i współczesnych cystern?)
 - Kuźnia
 - Zbrojownia
 - Kopalnie
-- Grobowiec
+- [[Grobowiec Deszczowców]]
 Zagrożenia:
 - Pułapki konwencjonalne i magiczne zastawione przez wychodzących deszczowców
 - Grupa paskud, których nikomu nie chciało się zabierać na powierzchnie
