@@ -1,9 +1,25 @@
-kretoludzie w bujnych jaskiniach?
+> [!success]
 
-a co jakby normalna ścieżka ale są tu wilcze doły i one spadają do celi i tam kretoludzie przetrzymywali by i to takie łąpanki za nielegalne przekraczanie granicy. mieli by tam koszary i wogóle
 
-gdzieś tu wisi taki obraz ![[Pasted image 20260117172317.png]]
+Loch: bujne jaskinie?
 
-slava ukrainie
+ścieżka z ukrytą zapanią prowadzącą do celi kretoludzi
+### Zawartość
+Wyjątkowo bujna w liście i patyki na podłodze ścieżka.
+Pod tymi patykami i liśćmi ukryta jest dziura która slidem prowadzi do celi. Jeśli ktoś się mocno postara w szukaniu na górze, może znaleść świetnie ukryte bezpieczne przejście schodami w dół.
 
-zamek, leśne ścieżki, sekretna policja
+Z przodu oraz z boku są kraty. Za tymi po boku jest legowisko kretoszczurów, źaś z przodu jest korytarz z stolikiem i trzema pieńkami jako siedzenia, tam znajdują się strażniczy (kretoludzie).
+
+Kretoszczury te dzieli od graczy krata otwierana za pomocą dźwigni po stronie strażników.
+
+Strażnicy zazwyczaj siedzą razem i grają w jakieś karty czy kości czy co oni tam mają.
+W całej lokacji jest od 2 do 3 strażników, zależy czy jeden nie jest na obchodzie.
+
+Jest to punkt strażniczy, znajdują tu się trzy dość małe, bardzo przytulne (dla kreta) pokoje ze ścianami z gliny. Są w nich: posłanie i półką w ścianie na rzeczy prywatne.
+
+Jest tu także magazynek w którym znajduje się kilka zestawów zbroi skórzanych, kilka włóczni oraz parę beczek jedzenia (jakaś taka papka szara (ugniecione termity)) oraz wody. Na suficie jest ciemna dziura (secret: jest to przejście do bezpieczniejszych tuneli pod kontrolą kretoludzi).
+
+Oprócz tego są tu schody do ukrytego przejścia prowadzącego na górę.
+
+Nad stolikiem obok drabiny(!) wisi obraz Gnoma Liza podpisany Sol'og![[Pasted image 20260117172317.png]]
+

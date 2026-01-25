@@ -1,3 +1,5 @@
+> [!warning] Ten artykuł musi zostać przepisany.
+
 **Miejsce - Loch**
 Trzeba gdzieś to wsadzić pod coś jak sie więcej o lochu napisze
 
