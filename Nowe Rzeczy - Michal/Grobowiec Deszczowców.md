@@ -2,7 +2,6 @@ Część lochu w [[Bunkry Uwięzionych]]
 Ukryte przejście do [[Bagno-Ścieki]]
 
 Piękny grobowiec zbudowany dla starszyzny Deszczowców, która nie doczekała się wyjścia na powierzchnie. Aktualnie zbrukany ściekiem i zamieszkały przez bestie.
-
 ### Wstępny Ołtarz
 Przed samym grobowcem jest nieduży ołtarz. Po bokach pokoju są stoły i słoje do preparacji zwłok. Za wysokim, pozłacanym ołtarzem z przerażającym obliczem Starej są dwa przejścia w dół do sali grobowej.
 
