@@ -1,0 +1,1 @@
+ołtarzyk do szefa lochu
