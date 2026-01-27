@@ -1,0 +1,3 @@
+> [!warning] Ten artykuł jest tylko szkicem.
+
+taki gaj gdzie sa owoce mlecze i takie tam i na srodku taki duuuze drzewo i w nim jest dziura ze czlowiek musial by na kucaka i tam taki domek a w nim stworek włochaty mieszka, ale jak zobaczy ze ktos mu sie do chaty wbija bedzie warczał i probowal wypchac ziomkow z domu jego, jak bardzo natarczywi beda to sie wkurwi i zacznie nabrzmiewac i sie duzy robic i czerwony i po chwili taki mega wkurwiony zacznie ryczec i rzucac rzeczami i urosnie do rozmiarow wiekszych od czlowieka i rozwali troche chaty i walka.

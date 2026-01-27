@@ -1,3 +1,5 @@
+> [!warning] Ten artykuł jest tylko szkicem.
+
 miałem pomysł ale jednak był chujowy wiec wymysle cos innego ale mam vibe dobry
 
 a co jakby te smieci unosily sie na wodzie i cala ta lokalizacja byla niestabilna przez to

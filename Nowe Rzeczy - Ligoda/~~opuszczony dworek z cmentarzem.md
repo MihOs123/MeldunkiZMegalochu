@@ -1,0 +1,1 @@
+albo 1 lokacja albo 2 lokacje nwm
