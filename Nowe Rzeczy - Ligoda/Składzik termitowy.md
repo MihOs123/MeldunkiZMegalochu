@@ -1,4 +1,4 @@
-> [!warning] Ten artykuł musi zostać przepisany.
+> [!warning] Ten artykuł musi zostać przepisany. Ale już mozna przerzucac jak cos
 
 loch - termitiera
 nie wiem czy tego nie przepisać bo idzie się pogubić czytając bo nie po kolei jest

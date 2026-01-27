@@ -3,14 +3,14 @@
 
 Loch: bujne jaskinie?
 
-ścieżka z ukrytą zapadnią prowadzącą do celi kretoludzi
+Ścieżka z ukrytą zapadnią prowadzącą do celi kretoludzi
 ### Zawartość
 Wyjątkowo bujna w liście i patyki na podłodze ścieżka.
 Pod tymi patykami i liśćmi ukryta jest dziura która slidem prowadzi do celi. Jeśli ktoś się mocno postara w szukaniu na górze, może znaleźć świetnie ukryte bezpieczne przejście schodami w dół.
 
-Z przodu oraz z boku są kraty. Za tymi po boku jest legowisko kretoszczurów, zaś z przodu jest korytarz z stolikiem i trzema pieńkami jako siedzenia, tam znajdują się strażniczy (kretoludzie).
+Z przodu oraz z boku są kraty. Za tymi po boku jest legowisko wilkokrety, zaś z przodu jest korytarz z stolikiem i trzema pieńkami jako siedzenia, tam znajdują się strażniczy (kretoludzie).
 
-Kretoszczury te dzieli od graczy krata otwierana za pomocą dźwigni po stronie strażników.
+Wilkokrety te dzieli od graczy krata otwierana za pomocą dźwigni po stronie strażników.
 
 Strażnicy zazwyczaj siedzą razem i grają w jakieś karty czy kości czy co oni tam mają.
 W całej lokacji jest od 2 do 3 strażników, zależy czy jeden nie jest na obchodzie.

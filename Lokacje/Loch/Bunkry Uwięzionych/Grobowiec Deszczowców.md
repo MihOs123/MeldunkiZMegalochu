@@ -19,6 +19,7 @@ Skóra węża i kości różnych istot walają się po ziemi. Przez pęknięcia 
 **Sarkofag 2 - Obrazy przedstawiają sceny walki człowieka z różnymi bestiami.**
 - (Loot: Skrzynia)
 - Miecz runiczny z czarem ZMIENIAM+OGIEŃ
+- Gdy się otwiera wystrzeliwuje ogień k4 obrażeń.
 - Banderola 5 noży
 - Szmaragd
 **Sarkofag 3 - Obrazy przedstawiają miasta i wsie i pracujących ludzi**
@@ -28,7 +29,6 @@ Skóra węża i kości różnych istot walają się po ziemi. Przez pęknięcia 
 **Sarkofag 4 - Obrazy po jednej stronie przedstawiają konstelacje a po drugej sceny rytuałów**
 - (Loot: Skrzynia)
 - Szata wyszywana srebrem
-- Diament
 **Sarkofag 5 - Obrazy przedstawiają magiczne inkantacje i ludzi na tronach**
 - (Loot: Skrzynia)
 - Szata wyszywana srebrem
@@ -46,5 +46,6 @@ Przeciekające ściany można zniszczyć aby przejść do [[Bagno-Ścieki]]
 ### Wąż
 - staty weza
 - loot po wezu
+- hard ass guy
 
 Jad Grobowęża(Szybkość III, Trucizna I - III)

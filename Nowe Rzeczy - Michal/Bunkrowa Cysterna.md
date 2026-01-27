@@ -10,7 +10,7 @@ Spora kamienna cysterna przerobiona przez paskudy na główną bazę. Zbudowały
 Na **parterze** ich struktury jest magazyn w formie wielkiego stosu różnych gratów. Są tu schody do pobocznej cysterny i na piętro. Jedna lepiej ubrana paskuda koordynuje przerzucanie gratów z jednych kup na drugie.
 Koordynator chętnie wymieni się na zasadzie handlu wymiennego. Ma różne graty zebrane z lochu oraz składniki alchemiczne.
 
-Na piętrze są stoły kuchnie i różne rekreacyjne implementy. Cały czas kręcą się tutaj w te i we wte różne paskudy. Można z tąd przejść do Kontrolni.
+Na piętrze są stoły kuchnie i różne rekreacyjne implementy. Cały czas kręcą się tutaj w te i we wte różne paskudy. Można stąd przejść do Kontrolni.
 ### Poboczna Cysterna
 W tej cysternie Paskudy i ich Wilkokrety śpią sobie na pryczach rozwieszonych po całej wysokości struktury. Żeby się wspinać do prycz pobudowały tutaj różne małe rusztowania i drabiny. Z otworu w czubku cysterny skapuje woda do dużego garnka na środku.
 ### Kontrolnia
@@ -19,3 +19,5 @@ W tej cysternie Paskudy i ich Wilkokrety śpią sobie na pryczach rozwieszonych 
 
 Jest tutaj pokój kontrolny z dzwigniami, jedna może spowodować zalanie cystern, zalanie całego tego lochu albo wyższych poziomów podziemi. Może dlatego że teraz woda może sciekac gdzies pod ziemie do jaskin ale mozna to zdezaktywowac zeby zalało?
 
+
+paskuda alfa gdzies tu chilluje

@@ -5,7 +5,7 @@ studnia pusta i jebie z niej zwłokami
 na dole cave, przejścia tu są całkiem szerokie i wysokie
 na dole ktos rozbil oboz jakis czas temu, zostawione sa tu personal belongings 
 jestu tu małe zamarznięte zródełko w którym i tak nie ma za wiele wody,
-idąc dalej wzdłóż jjaskini zapach zwłok jest coraz mocniejszy oraz na ścianach zaczynają pojawiań się pajęczyny. 
+idąc dalej wzdłuż jjaskini zapach zwłok jest coraz mocniejszy oraz na ścianach zaczynają pojawiań się pajęczyny. 
 jeszcze troche dalej jest rozwidlenie, jednak jedno przejście jest całe zablokowane grubą pajęczyną, jest ona tak nawarstwiona że nie widać co jest po drugiej stronie.
 Drugie przejście za to prowadzi dalej i z tamtąd zapach zwłok jest.
 Idąc tam jest coraz jaśniej oraz znowu widać blokade w formie pajęczyny jednak dużo rzadszej, niedaleko za nią widać przysypane śniegiem wyjście, porwadzi ono do lasu na miedzianych wzgórzach w którym jest leże trolicy.
