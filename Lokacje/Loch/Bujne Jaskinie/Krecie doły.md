@@ -1,7 +1,6 @@
 > [!success]
 
-
-Loch: bujne jaskinie?
+Loch: [[Bujne Jaskinie]]
 
 Ścieżka z ukrytą zapadnią prowadzącą do celi kretoludzi
 ### Zawartość
@@ -23,6 +22,6 @@ Oprócz tego są tu schody do ukrytego przejścia prowadzącego na górę.
 
 Nad stolikiem obok drabiny(!) wisi obraz Gnoma Liza podpisany Sol'og![[Pasted image 20260117172317.png]]
 
-Dodatkowo jeśli gracze sama wejdzie przejściem do strażnicy lub przebiją się przez kraty i będą wrogo nastawieni, jeden z kretoszczurów będzie starał się uciec ukrytym wyjściem aby poinformować wyższą jednostkę o tym zajściu, jeśli mu się uda od tego momentu w większości obiektów przejętych przez kretoszczury będą znajdowały się listy gończe z podobiznami graczy.
-Jeśli jednak się nie uda mu przeżyć, kretoszczury wzmogą ochronę w ważniejszych punktach.
+Dodatkowo jeśli gracze sami wejdą przejściem do strażnicy lub przebiją się przez kraty i będą wrogo nastawieni, jeden z kretoludzi będzie starał się uciec ukrytym wyjściem aby poinformować wyższą jednostkę o tym zajściu, jeśli mu się uda od tego momentu w większości obiektów przejętych przez kretoludów będą znajdowały się listy gończe z podobiznami graczy.
+Jeśli jednak się nie uda mu przeżyć, kretoludów wzmogą ochronę w ważniejszych punktach.
 
