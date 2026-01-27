@@ -14,5 +14,6 @@ Na podłodze byłaby jakaś zagadka (typu jak w skyrimie wiec prosta), która ot
 
 mobek typu stacking immortal beast co go nie zabijesz tylko trzeba zapieczetować
 
+![[Pasted image 20260127212426.png]]
 
 
