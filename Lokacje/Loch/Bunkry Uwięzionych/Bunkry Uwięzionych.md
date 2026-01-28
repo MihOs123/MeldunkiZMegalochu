@@ -16,7 +16,7 @@ Lokacje (żeby nie spamić plikami):
 - Pastwisko / Hodowla
 - Kuchnie + tkalnie + Rzeźnia
 - Spichlerz
-- Śmietnik (ligoda robi)
+- [[Śmietnik]]
 - Baraki
 - Szpital
 - Urzędy / Mieszkania elit
