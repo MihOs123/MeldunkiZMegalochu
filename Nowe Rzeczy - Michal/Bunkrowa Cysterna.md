@@ -14,10 +14,8 @@ Na piętrze są stoły kuchnie i różne rekreacyjne implementy. Cały czas krę
 ### Poboczna Cysterna
 W tej cysternie Paskudy i ich Wilkokrety śpią sobie na pryczach rozwieszonych po całej wysokości struktury. Żeby się wspinać do prycz pobudowały tutaj różne małe rusztowania i drabiny. Z otworu w czubku cysterny skapuje woda do dużego garnka na środku.
 ### Kontrolnia
-- wiele dzwigni zalanych woskiem
-- mieszkanie ich wodza/kaplana
-
-Jest tutaj pokój kontrolny z dzwigniami, jedna może spowodować zalanie cystern, zalanie całego tego lochu albo wyższych poziomów podziemi. Może dlatego że teraz woda może sciekac gdzies pod ziemie do jaskin ale mozna to zdezaktywowac zeby zalało?
-
-
-paskuda alfa gdzies tu chilluje
+W pokoju kontrolnym swoją siedzibe ma wyjątkowo przebiegły, duży i brzydki paskuda który przewodzi całą grupą. W kontrolni są jego różne personalia oraz X dzwigni zalanych woskiem.
+**Dźwignia 1** - Wypuści falę wody z tunelu w suficie pobocznej cysterny. Woda zmiecie wszystkie paskudy z cystern i ich struktury ale to będzie pojedyńcza fala powodziowa.
+**Dźwignia 2** - Cysterny zaczną się powoli wypełniać.
+**Dźwignia 3** - Zablokuje dolne tunele odpływowe. Cały region lochu zacznie przemakać.
+**Dźwignia 4** - Zablokuje górne tunele przypływowe. Cały region lochu zacznie suchnąć ale za to stare cysterny i części podmiasta mogą zacząć przemakać.
