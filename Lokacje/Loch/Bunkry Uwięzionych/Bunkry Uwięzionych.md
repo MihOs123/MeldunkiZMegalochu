@@ -15,12 +15,12 @@ Lokacje (żeby nie spamić plikami):
 - Gorzelnia
 - Pastwisko / Hodowla
 - Kuchnie + tkalnie + Rzeźnia
-- Spichlerz
+- [[Spichlerz Bunkrów]]
 - [[Śmietnik]]
 - Baraki
 - Szpital
 - Urzędy / Mieszkania elit
-- Mieszkania
+- [[Strefa Mieszkalna]]
 - [[Sala Centralna]]
 - Stołówki / Bary
 - [[Bunkrowa Cysterna]] (i współczesnych cystern?)
