@@ -1,4 +1,4 @@
-Sąsiedzi: [[Rynek Główny]], [[Wrota Graniczne]]
+**Sąsiedzi**: [[Rynek Główny]], [[Wrota Graniczne]]
 
 Brama jest całkiem duża, troche taki fort. Znajdują się w niej baraki oraz zbrojownia straży miejskiej.
 
