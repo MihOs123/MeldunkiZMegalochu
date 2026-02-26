@@ -6,6 +6,13 @@ Jest tutaj zbrojmistrz, jedyny w mieście kowal który ma pozwolenie na wykuwani
 
 Po stronie zewnętrznej bramy jest płaskożeźba skrzyżowanych mieczy, oraz wyryty napis "W Deszczu moc Wiedźmokróli będzie odnowiona."
 
+### Opis
 
+### Zawartość
+
+### NPC
+
+### Tymczasowo
+**Materiał do SESJI NIEBIESKICH 1**
 
 
