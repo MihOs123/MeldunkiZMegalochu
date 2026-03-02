@@ -1,0 +1,14 @@
+- Scena na wzgórzu
+- Kanarek ich łapie (jednooki) i kieruje do pałacu
+=Droga do pałacu=
+- W pałacu showcase Deszczowców / Księżycowców / Kanarków
+- Kanarki mowia overview sytuacji w regionie i prezentują główne tajemnice
+- Informują że wedle ich obserwacji powinni niedługo się dokopać do tego lochu
+	- Może dostają jakiś sprzęt do analizy badania lochu
+- Idą do lochu
+	- Farmy grzybów
+	- Warsztaty (stolarz, kamieniarz)
+	- Gorzelnia
+	- Pastwisko / Hodowla
+	- Kuchnie + tkalnie + Rzeźnia
+	- Kopalnie
