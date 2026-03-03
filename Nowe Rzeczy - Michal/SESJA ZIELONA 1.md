@@ -23,7 +23,8 @@
 		- Szybkie pokazanie crazy-ass-maga, spawni mięsnego oglema
 	- Kopalnie
 		- można tu znalezxc jakies krysztaly i metale ig.
-		- przejscie stad w dol jest ekstra kręte
+		- troche taka wieksza lokacja labiryntowa troche
+		- w ktoryms miejscu giga ravine z hujową windą na linę w dół
 
 da deal z lochem: z tych ziutkow co tu zostali porzuceni, wiekszosc zostala zabita albo niezyje, w tym pod-biomie udało sie przezyc jednej osobie, ktora w warunkach ekstremalnych stala sie niebezpieczna i niestablina.
 crazy-ass-mag
