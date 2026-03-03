@@ -30,4 +30,6 @@ crazy-ass-mag
 - ma magie miesa glownie i troche paskud, ma gniazdo na farmie grzybow gdzie z wiatrow podziemnych hoduje ekstra magiczne grzyby dla wiekszej mocy
 - widział przemiane tej struktury w loch
 - widział różne straszne kreatury ktore sie tu okazjonalnie pojawiały z głebi ziemi (dlatego zakopane przejście niżej)
-- w snach widział mistrza lochu i god-seed w głębi lochu, widział też egregory i ma wgląd w wielką grę
+- w snach widział mistrza lochu i god-seed w głębi lochu, widział też egregory i ma wgląd w wielką grę,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+
+![[mapadosesji2.png]]
