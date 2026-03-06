@@ -2,7 +2,7 @@ Wielu ludzi ma sny, wizje i fałszywe wspomnienia związane z Lochem w Krainie D
 
 Wróżbici Akademii, Księżyca oraz niezależni odkryli ścianę. Ich zmysł widzenia przyszłości nie może sięgnąć dalej niż jeden okres, jedno miejsce. Uczeni doszli do wniosku że w Wertolinie, w czasie kampanii tworzy się niesamowicie gęsty, nieprzenikalny splot ścieżek zdarzeń. Dopiero gdy się rozwiąże będzie można dalej patrzeć.
 
-Plotki o zmiennokształtnych wielu ludziom odbierają sen. Na drugim końcu Wertolinu całe miasto zostało wyrżnięte w pień, chwilę po tym jak jego władcy odkryli 3-4 krotny wzrost ludności. Sprawcami miały być straszne potwory pijące ludzką krew i jedzące ich mięso, przebrane za nich samych.
+Plotki o zmiennokształtnych wielu ludziom odbierają sen. Na drugim końcu Wertolinu całe miasto (Kardalon) zostało wyrżnięte w pień, chwilę po tym jak jego władcy odkryli 3-4 krotny wzrost ludności. Sprawcami miały być straszne potwory pijące ludzką krew i jedzące ich mięso, przebrane za nich samych.
 
 Upadek Hegemonii zdestabilizował Wertolin ale nikt nie walczy tutaj o Hegemonie. Rodowici mieszkańcy wiwatują, ale czudy które zostały tu przesiedlone za czasów Hegemonii czują niepokój. Pogromy, liberalizacja magii oraz wyzysk dewastują liczne społeczności kolonistów.
 

@@ -8,5 +8,15 @@ Można kupić tu bimber deszczowy, przyszywanice z lepszymi statami, różniaste
 
 Jest tutaj mały ołtarzyk wyryty w stojącym głazie (Rdzawowiec). Pilnuje go niemy mnich Blaty. Zgodnie z legendą ten kamień był fragmentem starożytnego demona Gar'fuga
 
+### Opis
+
+### Zawartość
+
+### NPC
+
+### Tymczasowo
+**Materiał do SESJI NIEBIESKICH 1**
+Jeżeli będą wchodzić w jakąś interakcje z ołtarzykiem to ich bożek się wkurwi.
+
 
 

@@ -1,4 +1,5 @@
 **Miejsce - Bragaróg**
+**Sąsiedzi**: [[Aleja Habubowa]], [[Miejska Świątynia Blaty]], [[Ołtarzysko]]
 
 Popularna całkiem duża arena. Zbudowana w czasach Zariaszka.
 
@@ -18,3 +19,13 @@ Gladiatorzy są też celebrytami i showmenami. Najpopularniejsi to
 **Złydny Bill** - Chodzi w zwierzęcych futrach i udaje mitycznego Złydnego. Jego rola oscyluje pomiędzy "szlachetny obrońca natury" a "wścieknięty zwierzolud".
 
 Można obstawiać walki. Jakaś walka odbywa się codziennie, ale takie duże i z udziałem gladiatorów są na weekend i w święta.
+
+### Opis
+
+### Zawartość
+
+### NPC
+
+### Tymczasowo
+**Materiał do SESJI NIEBIESKICH 1**
+Trębacz ogłasza że niedługo odbędzie się krwawa jatka z okazji urodzin Ludmiły

@@ -1,4 +1,4 @@
-Sąsiad: [[Ołtarzysko]], [[Plac Molocha]], [[Bunkry Uwięzionych]]
+**Sąsiedzi**: [[Ołtarzysko]], [[Plac Molocha]], [[Bunkry Uwięzionych]]
 
 Dziura która miała otworzyć handel z Zawiniętymi Krainami ale natrafiła na loch.
 ### Zawartość
@@ -9,6 +9,13 @@ Dookoła dziury porozstawiane są dźwigi, budynki które nie zostały zniszczon
 Na dół dziury prowadzi spiralna rampa wyryta w ścianie dziury. Dzień i noc niewolnicy z robotnikami kopali coraz głębiej aż nie dokopali się do [[Bunkry Uwięzionych]].
 
 W połowie wysokości dziury rampa obija na [[Plac Molocha]].
-### Tymczasowe
-Robotnicy, straż i podróżnicy zebrali się wokół dziury i na jej dnie. Górnicy dokopali się do podziemnej komory z (liczba drużyn) złotymi drzwiami. Drzwi są ciężkie, kamienne, oznaczone symbolami klanu deszczowców.
+### ### Opis
+
+### Zawartość
+
+### NPC
+
+### Tymczasowo
+**Materiał do SESJI NIEBIESKICH 1**
+Robotnicy, straż i podróżnicy zebrali się wokół dziury i na jej dnie. Górnicy dokopali się do podziemnej komory z trzema złotymi drzwiami. Drzwi są ciężkie, kamienne, oznaczone symbolami klanu deszczowców.
 Od razu podnoszą się krzyki że znaleziono loch o którym była mowa.
