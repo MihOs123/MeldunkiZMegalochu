@@ -3,9 +3,7 @@ Ukryte przejście do [[Bagno-Ścieki]]
 
 Piękny grobowiec zbudowany dla starszyzny Deszczowców, która nie doczekała się wyjścia na powierzchnie. Aktualnie zbrukany ściekiem i zamieszkały przez bestie.
 ### Wstępny Ołtarz
-Przed samym grobowcem jest nieduży ołtarz. Po bokach pokoju są stoły i słoje do preparacji zwłok. Za wysokim, pozłacanym ołtarzem z przerażającym obliczem Starej są dwa przejścia w dół do sali grobowej.
-
-Na ziemi porozrzucane są odłamki zrzuconej skóry (węża) oraz różne kości.
+Przed samym grobowcem jest nieduży ołtarz. Po bokach pokoju są stoły i słoje do preparacji zwłok. Za wysokim, pozłacanym ołtarzem z przerażającym obliczem Starej jest przejście w dół do sali grobowej.
 
 Maści do preparacji zwłok są składnikiem alchemicznym (Ogień I, Smar I)
 ### Grobowiec
@@ -43,9 +41,3 @@ Na ścianach płaskorzeźby przedstawiają różne historyczne i mitologiczne sc
 - Inwazja powierzchni (Hegemonii) spod ziemi
 
 Przeciekające ściany można zniszczyć aby przejść do [[Bagno-Ścieki]]
-### Wąż
-- staty weza
-- loot po wezu
-- hard ass guy
-
-Jad Grobowęża(Szybkość III, Trucizna I - III)
