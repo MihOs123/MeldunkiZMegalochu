@@ -17,15 +17,15 @@ Lokacje (żeby nie spamić plikami):
 - Kuchnie + tkalnie + Rzeźnia
 - [[Spichlerz Bunkrów]]
 - [[Śmietnik]]
-- Baraki
+- [[Baraki]]
 - Szpital
-- Urzędy / Mieszkania elit
+- [[Urzędy Elit]]
 - [[Strefa Mieszkalna]]
 - [[Sala Centralna]]
-- Stołówki / Bary
+- [[Stołówka]]
 - [[Bunkrowa Cysterna]] (i współczesnych cystern?)
 - Kuźnia
-- Zbrojownia
+- [[Zbrojownia]]
 - Kopalnie
 - [[Grobowiec Deszczowców]]
 Zagrożenia:
