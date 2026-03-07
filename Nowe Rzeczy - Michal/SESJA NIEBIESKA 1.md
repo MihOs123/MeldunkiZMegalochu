@@ -21,3 +21,26 @@ Brama Habubowa > Aleja Habubowa > Misa > Ołtarzysko > Odwiert
 
 Ich sekcja lochu:
 ![[mapadosesji1.png]]
+
+![[Pasted image 20260307175033.png]]
+
+![[Pasted image 20260307195338.png]]
+
+![[Pasted image 20260307202605.png]]
+
+
+Jeden z szabrownikow od kluczy x2
+Karam Bit x2
+Ludmiła 
+Łysy Bill 
+
+Dodac joker event do talii lochu
+Za dlugo
+
+
+poszli w prawe dzrzwi
+
+znalezli sobie meeting hall w pustostanie
+
+
+

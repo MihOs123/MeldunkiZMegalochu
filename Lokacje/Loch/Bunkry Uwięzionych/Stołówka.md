@@ -9,7 +9,7 @@ Golem ma w sobie 2 pospolite i jeden niepospolity kryształ oraz paskude która 
 
 Na stołach większość rzeczy zgniła i/lub porosła porostem lochowym ale są tu także 3 słoje zawekowane. Rzut szczęścia powie czy to jadalne
 
-### Mięsny / Golem
+### Golem
 
 | Obrońca    | T2  |
 | ---------- | --- |
@@ -21,7 +21,7 @@ Na stołach większość rzeczy zgniła i/lub porosła porostem lochowym ale są
 | **Atak Wręcz**                                                                                                                                                                                                                               |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Zadaje [Siła] obrażeń istocie na tym samym polu.                                                                                                                                                                                             |
-| [ATAK] \| Kończyna: ⬜⬜⬜                                                                                                                                                                                                                      |
+| [ATAK] \| Kończyna:                                                                                                                                                                                                                          |
 | \|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\| |
 | **Żywa Tarcza**                                                                                                                                                                                                                              |
 | Gdy sojusznik Obrońcy na tym samym polu jest atakowany, Obrońca staje się celem ataku.                                                                                                                                                       |
@@ -29,7 +29,7 @@ Na stołach większość rzeczy zgniła i/lub porosła porostem lochowym ale są
 | \|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\| |
 | **Zbroja II**                                                                                                                                                                                                                                |
 | Ta kończyna przyjmuje obrażenia jako pierwsza.                                                                                                                                                                                               |
-| Kończyna: ⬜⬜⬜⬜⬜⬜                                                                                                                                                                                                                             |
+| Kończyna:                                                                                                                                                                                                                                    |
 | \|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\| |
 | **Utwardzenie**                                                                                                                                                                                                                              |
 | Pierwszy atak, który trafi Obrońcę, zadaje tylko 1 obrażeń.                                                                                                                                                                                  |
