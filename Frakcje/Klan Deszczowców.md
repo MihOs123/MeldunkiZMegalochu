@@ -12,3 +12,6 @@ Matriarcha jest świadoma zagrożenia ze strony innych frakcji oraz lochu, ale w
 **Dziedzictwo** - Deszczowcy są spokrewnieni z oryginalnym Wiedźmim-Królem, który rządził tym miastem.
 
 **Wojsko** - Oprócz armii miejskich strażników Deszczowcy dysponują także pułkiem zaznajomionych z magią Nieśmiertelnych. Funkcjonują jako gwardia przyboczna Matriarchy.
+
+
+![[f0abfb25343a9cf332feddc472dfa5f0.jpg]]

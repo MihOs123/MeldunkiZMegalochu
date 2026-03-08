@@ -27,5 +27,5 @@ Można obstawiać walki. Jakaś walka odbywa się codziennie, ale takie duże i 
 ### NPC
 
 ### Tymczasowo
-**Materiał do SESJI NIEBIESKICH 1**
+**Materiał do SESJI NIEBIESKICH/ZIELONYCH 1**
 Trębacz ogłasza że niedługo odbędzie się krwawa jatka z okazji urodzin Ludmiły

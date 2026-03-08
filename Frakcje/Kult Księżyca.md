@@ -12,3 +12,11 @@ Nie mogą polegać na jasnowidzeniu. Muszą odzyskać przychylność Ksieżyca. 
 **Strach** - Wszyscy znają Krwawy Księżyc. Jego kapłani, nawet ci odrzuceni, wzbudzają bojaźliwy lęk w pospólstwie.
 
 **Magia** - Mimo utraty daru jasnowidzenia większość żywych członków kultu nadal zna silne i pożyteczne czary.
+
+![[18c42c273c66b1fd841cdc49b12778d4.jpg]]
+
+![[a0d956ed36ea6f87769e6cafb56efcc4.jpg]]
+
+
+
+

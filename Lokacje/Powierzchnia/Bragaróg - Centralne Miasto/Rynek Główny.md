@@ -18,7 +18,7 @@ Karam Bit - jest taprobańskim handlarzem który sprzedaje tylko tutaj. Oryginal
 ### NPC
 
 ### Tymczasowo
-**Materiał do SESJI NIEBIESKICH 1**
+**Materiał do SESJI NIEBIESKICH/ZIELONYCH 1**
 Wchodzicie na rynek główny Bragarogu. Pierwsza rzecz która rzuca się w oczy to niewiarygodnie nierówne, metalowe odłamki, którymi jest on "wybrukowany". Drugą rzeczą jest posąg bez głowy na samym środku. Normalny smród miasta jest tu przytłoczony przez smród zwierząt i różnych towarów. Ciężko przeciska się od straganu do straganu i cały czas musicie pilnować swoich sakw i plecaków.
 
 Słychać głośno nawoływanie handlarzy, szczególnie głośno niski głos Karam Bita.
