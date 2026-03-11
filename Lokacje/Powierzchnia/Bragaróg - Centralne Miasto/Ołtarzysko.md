@@ -19,7 +19,3 @@ Kontempluje dołączenie do kultu Molocha bo podoba jej się jak pomagają ludzi
 ### NPC
 
 ### Tymczasowo
-**Materiał do SESJI NIEBIESKICH 1**
-Chwile po tym jak drużyna zbliży się do ołtarzyska, albo chwile po tym jak z niego wyjdą przybywa lektyka niesiona przez muskularnych niewolników. Stary łysiejący trębacz trąbi albowiem przybywa dziedziczka matriarchy rodu Deszczowców Ludmiła.
-
-Ludmiła jako pierwszą fun aktywność dzisiaj postanowiła rzucać ludziom monety (część to jakieś petardy). Jeżeli gracze sie do niej przypierdolą to najpierw będzie kazała ich zabić ale trębacz jej powie że jej matriarcha zakazała, Ludmiła więc każe niewolnikowi pobić trębacza.

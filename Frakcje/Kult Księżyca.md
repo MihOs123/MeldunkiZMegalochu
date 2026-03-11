@@ -1,8 +1,8 @@
 Niesławieni kultyści odrzuceni przez swojego boga muszą ponownie udowodnić swoją gorliwość.
 ### Postacie
-Luna - Przywódczyni kultu. Małżonka Księżyca i potężny mag.
-Niedźwiedź - Gigantyczny i kompletnie wyprany z myśli chłop. Promień księżyca napuchł jego mięśnie do strasznych proporcji. Dzierży nieludzką siłę.
-Irys - Czarownica, którą Księżyc już parę razy wskrzesił. Jest gotowa oddać za niego życie jeszcze parę razy.
+**Luna** - Przywódczyni kultu. Małżonka Księżyca i potężny mag.
+**Niedźwiedź** - Gigantyczny i kompletnie wyprany z myśli chłop. Promień księżyca napuchł jego mięśnie do strasznych proporcji. Dzierży nieludzką siłę.
+**Irys** - Czarownica, którą Księżyc już parę razy wskrzesił. Jest gotowa oddać za niego życie jeszcze parę razy.
 ### Sytuacja
 Kultyści byli pewni że używając wielkich kości z głębin ziemi przebiją się przez splot prawdopodobieństwa i znajdą w nim prawdę. Mieli racje, ale prawdy nie zobaczyli bo spalił ich ich własny Krwawy Księżyc.
 Nie mogą polegać na jasnowidzeniu. Muszą odzyskać przychylność Ksieżyca. Złożą w ofierze coś wielkiego, większego niż kiedykolwiek w przeszłości. Kandydatem może być inny bóg lub loch, ale najpierw muszą się do tego upozycjonować.
@@ -13,9 +13,9 @@ Nie mogą polegać na jasnowidzeniu. Muszą odzyskać przychylność Ksieżyca. 
 
 **Magia** - Mimo utraty daru jasnowidzenia większość żywych członków kultu nadal zna silne i pożyteczne czary.
 
-![[18c42c273c66b1fd841cdc49b12778d4.jpg]]
+![[Luna-Ksiezyc.jpg]]
 
-![[a0d956ed36ea6f87769e6cafb56efcc4.jpg]]
+![[Irys-Ksiezyc.jpg]]
 
 
 

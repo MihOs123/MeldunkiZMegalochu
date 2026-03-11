@@ -1,5 +1,13 @@
 Część lochu w [[Bunkry Uwięzionych]]
+Sekcja mieszkalna dla biednych mieszkańców Bunkrów.
+### Opis
+### Zawartość
+Kilka większych dormitoriów połączonych korytarzami oraz salonikami. Lokacja ta została juz obrabowana przez innych szabrowników. Zrobili sobie tu nawet obóz.
 
-Sekcja mieszkalna, jak tylko wchodzą blokują ich inni szabrownicy. Jest ich 5 (2 magów 3 zbrojnych). Nie pozwalają drużynie tutaj wejść (ani przejść do Spichlerzy). Gość co ich blokuje ma na pasie duży klucz z kwadratem.
+Obóz jest jednak zniszczony, leży tutaj kilka trupów. Są ślady potworów.
 
-Każdy szabrownik ma (Sakwa), w barakach są 2 (Skrzynia)
+Trupy mają 3xSakwa.
+
+Pod jednym z łóżek jest ukryty plecak (Skrzynia)
+Jeżeli ktoś zbada ślady walki to się zauważy, że są wyłącznie ślady potwora odchodzące od pola walki, nie ma przychodzących.
+

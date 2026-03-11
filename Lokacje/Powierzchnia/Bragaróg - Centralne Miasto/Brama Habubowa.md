@@ -8,7 +8,7 @@ Brama łącząca miasto i okoliczne osady. Przechodzi przez nią większość ha
 ### NPC
 
 ### Tymczasowo
-**Materiał do SESJI NIEBIESKICH 1**
+**To był materiał do sesji ale można tego jeszcze użyć**
 Przed bramą stoi nieruchomo długa kolejka kilkunastu wozów.
 Sama brama jest zbudowana z granatowych i brązowych kamiennych cegieł. Bloki granatowych cegieł są dużo większe niż te brązowe.
 

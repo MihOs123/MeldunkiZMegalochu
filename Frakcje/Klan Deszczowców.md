@@ -1,9 +1,10 @@
 Klan wygnanych czudów wertolińskich, który po wydostaniu się na powierzchnie przejął władzę nad regionem gry.
 ### Postacie
-Matriarcha - Bezwzględna, ale sprawiedliwa władczyni regionu 
-Ur-Kapłan - Arcymag ambitny w magii. Niezainteresowany światem siedzi zamknięty w swojej wieży.
-Kapitan Straży - Syn matriarchy, lojalny i zdolny wojownik
-Dziedziczka (Ludmiła) - Córka matriarchy, crazy ass evil
+**Matriarcha** - Bezwzględna, ale sprawiedliwa władczyni regionu 
+**Ur-Kapłan** - Arcymag ambitny w magii. Niezainteresowany światem siedzi zamknięty w swojej wieży.
+**Kapitan Straży** - Syn matriarchy, lojalny i zdolny wojownik
+**Dziedziczka (Ludmiła)** - Córka matriarchy, crazy ass evil
+**Nienazwany Dziad** - Krzywy, starusieńki, łaknący krwi emeryt. Nosi wielki złoty łańcuch z kryształem. Coś z nim jest ale jeszcze nie wiem co. Może wogóle nie ma magii i blefował z tym zabijaniem?
 ### Sytuacja / Plany / Motywacje
 Matriarcha jest świadoma zagrożenia ze strony innych frakcji oraz lochu, ale wie też jak duże zyski mogą iść z lochu. Dopóki któraś frakcja nie zmieni jej zdania ona pozwoli działać i eksplorować loch.
 ### Zasoby
@@ -14,4 +15,4 @@ Matriarcha jest świadoma zagrożenia ze strony innych frakcji oraz lochu, ale w
 **Wojsko** - Oprócz armii miejskich strażników Deszczowcy dysponują także pułkiem zaznajomionych z magią Nieśmiertelnych. Funkcjonują jako gwardia przyboczna Matriarchy.
 
 
-![[f0abfb25343a9cf332feddc472dfa5f0.jpg]]
+![[Matriarcha.jpg]]

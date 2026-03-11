@@ -20,13 +20,13 @@ Brama Habubowa > Aleja Habubowa > Misa > Ołtarzysko > Odwiert
 
 
 Ich sekcja lochu:
-![[mapadosesji1.png]]
+![[CzescLochu1.png]]
 
-![[Pasted image 20260307175033.png]]
+![[Sciaga-Test.png]]
 
-![[Pasted image 20260307195338.png]]
+![[Sciaga-Czar.png]]
 
-![[Pasted image 20260307202605.png]]
+![[Sciaga-Skarby.png]]
 
 
 Jeden z szabrownikow od kluczy x2

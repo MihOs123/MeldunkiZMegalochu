@@ -12,3 +12,5 @@ Prospekt lochu i bandy szabrowników na terenach ich wykopków i rojów jest jed
 **Siatka Dystrybucji** - Rozbudowana sieć mułów, skrytek i dealerów pozwala Kraniometrystom sekretnie przemycać towar i ludzi nie tylko w Krainie Deszczowców ale i w całym Wertolinie.
 
 **Monopol na Purpur** - Wiedza o sekretnych magazynach Termitów daje Kraniometrystom niesamowite bogactwo.
+
+**Współpraca z Kanarkami** - Ugadali ze sobą wstępne wsparcie dzięki wspólnej nostalgii do Hegemonii

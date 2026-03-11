@@ -15,8 +15,7 @@ Jest tutaj mały ołtarzyk wyryty w stojącym głazie (Rdzawowiec). Pilnuje go n
 ### NPC
 
 ### Tymczasowo
-**Materiał do SESJI NIEBIESKICH 1**
-Jeżeli będą wchodzić w jakąś interakcje z ołtarzykiem to ich bożek się wkurwi.
+
 
 
 

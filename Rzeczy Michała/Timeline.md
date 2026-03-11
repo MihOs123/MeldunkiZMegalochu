@@ -14,3 +14,6 @@
 3E 810 (2810) - Żywy Świat
 
 3E 820 (2820) - Start Meldunków z Megalochu? | Wertolin jest wolny od hegemonii od ~35 lat
+
+
+1 grudnia - akcja sesji niebieskich i zielonych.

@@ -52,14 +52,14 @@ crazy-ass-mag
 - w snach widział mistrza lochu i god-seed w głębi lochu, widział też egregory i ma wgląd w wielką grę,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
 - crazy-ass-mag upija sie tez oleum ktore wycieka gdziestam
 
-![[mapadosesji2.png]]
+![[CzescLochu2.png]]
 
 
-![[Pasted image 20260307175033.png]]
+![[Sciaga-Test.png]]
 
-![[Pasted image 20260307195338.png]]
+![[Sciaga-Czar.png]]
 
-![[Pasted image 20260307202605.png]]
+![[Sciaga-Skarby.png]]
 
 Stara Baba Zielarka
 Taprobańczyk

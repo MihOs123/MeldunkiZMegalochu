@@ -1,9 +1,9 @@
 Jednomyślny rój infiltrujący ludzkie społeczności.
 ### Postacie
-Karam Bit - O dziwo Taprobańczyk. Głośny handlarz na rynku głównym który ma bardzo dużo towarów.
-Zoroar - Właściciel tawerny "Rudy Jeż". Gruby poczciwy wujas taki.
-Fidor - Oficer straży, stacjonuje w bramie głownej i na śluzie. Ma kij w dupie ale jest luźny na przepustce
-Melwa - Znachorka, MILF
+**Karam Bit** - O dziwo Taprobańczyk. Głośny handlarz na rynku głównym który ma bardzo dużo towarów.
+**Zoroar** - Właściciel tawerny "Rudy Jeż". Gruby poczciwy wujas taki.
+**Fidor** - Oficer straży, stacjonuje w bramie głownej i na śluzie. Ma kij w dupie ale jest luźny na przepustce
+**Melwa** - Znachorka, MILF
 ### Sytuacja
 Nadmózg kieruje roje do Wertolinu bo wyczuwa splot prawdopodobieństwa, duży potencjał magiczny i skupisko egregor. Ten sam mechanizm, który może wywołać "narodziny boga" może przyśpieszyć przybycie Nadmózgu.
 

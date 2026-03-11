@@ -6,16 +6,11 @@ W miejscu budowy odwiertu stała dzielnica biedoty. Większość z biedaków w n
 
 Dookoła dziury porozstawiane są dźwigi, budynki które nie zostały zniszczone są w dużej mierze porzucone.
 
-Na dół dziury prowadzi spiralna rampa wyryta w ścianie dziury. Dzień i noc niewolnicy z robotnikami kopali coraz głębiej aż nie dokopali się do [[Bunkry Uwięzionych]].
+Na dół dziury prowadzi spiralna rampa wyryta w ścianie dziury.
+
+Wykopaliska zostały spowolnione przez odkrycie lochu. Teraz rozstawione są tam straże i zbierają opłaty od wychodzących szabrowników.
 
 W połowie wysokości dziury rampa obija na [[Plac Molocha]].
-### ### Opis
-
-### Zawartość
-
 ### NPC
 
 ### Tymczasowo
-**Materiał do SESJI NIEBIESKICH 1**
-Robotnicy, straż i podróżnicy zebrali się wokół dziury i na jej dnie. Górnicy dokopali się do podziemnej komory z trzema złotymi drzwiami. Drzwi są ciężkie, kamienne, oznaczone symbolami klanu deszczowców.
-Od razu podnoszą się krzyki że znaleziono loch o którym była mowa.

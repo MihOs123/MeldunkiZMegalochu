@@ -35,7 +35,7 @@ Zagrożenia:
 - Duchy po deszczowcach którzy chcieli zostać podziemią i zostali zabici
 - Wrodzy szabrownicy
 Wstępna mapa (niektóre lokacje będą stałe):
-![[Pasted image 20260117010647.png]]
+![[PierwszySchematBunkrow.png]]
 
 ### Składniki Alchemiczne
 
