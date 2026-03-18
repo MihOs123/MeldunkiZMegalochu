@@ -18,13 +18,13 @@ Lokacje (żeby nie spamić plikami):
 - [[Spichlerz Bunkrów]]
 - [[Śmietnik]]
 - [[Baraki]]
-- Szpital
+- [[Szpital]]
 - [[Urzędy Elit]]
-- [[Strefa Mieszkalna]]
+- [[Rzeczy Michała/Strefa Mieszkalna]]
 - [[Sala Centralna]]
 - [[Stołówka]]
 - [[Bunkrowa Cysterna]] (i współczesnych cystern?)
-- Kuźnia
+- [[Kuźnia]]
 - [[Zbrojownia]]
 - Kopalnie
 - [[Grobowiec Deszczowców]]

@@ -1,14 +1,10 @@
 > [!warning] Ten artykuł jest tylko szkicem.
 
-miałem pomysł ale jednak był chujowy wiec wymysle cos innego ale mam vibe dobry
+Wielka góra śmieci niedorozpoznania, jeśli sie zacznjie grzebać, można znaleść tu jakies rzeczy ale jest rzut mentalny czy rany dostaniesz, do tego podczas znajduje się tu chmara złomokrabów. pachnie tu stęchlizną, i podloże jest mocno niestabilne, można też zauważyć że cała góra stale sie niewielce porusza porusza. Śmieciowisko unosi sie na wodzie, usuwając wode odkryje sie Króla Złomokrabów którego sie obudziło. są 2 wejścia, jeden to zsyp, drugi to drzwi, drzwi znajduja sie na cypelku takim i jak sie opusci sterta to widac ze sa schody w dół. po zabiciu kraba jak padnie to od uderzenia spierdala się sterta gratów która ukazuje otwór w ścianie, jest to spływ i prowadzi głębiej pod ziemie
 
-a co jakby te smieci unosily sie na wodzie i cala ta lokalizacja byla niestabilna przez to
-a jakie mobki by tu mogły być?
-potencjalny mega loot ale zepsuty i podczas przeszukiwania można se zrobić rane czymś zardzewiałym i umrzeć
+potencjalnie mega loot co ma kilka uzyc aby bo jest zepsuty
 
-
-
-
+(zsyp idzie też z innej sekcji lochu)
 
 
 
