@@ -20,7 +20,7 @@ Lokacje (żeby nie spamić plikami):
 - [[Baraki]]
 - [[Szpital]]
 - [[Urzędy Elit]]
-- [[Rzeczy Michała/Strefa Mieszkalna]]
+- [[Strefa Mieszkalna]]
 - [[Sala Centralna]]
 - [[Stołówka]]
 - [[Bunkrowa Cysterna]] (i współczesnych cystern?)
