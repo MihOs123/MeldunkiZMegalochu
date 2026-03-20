@@ -1,1 +1,2 @@
-Chuj wiee...... (nieumarli :) (DUŻO))
+korytarz
+3 pokoje
