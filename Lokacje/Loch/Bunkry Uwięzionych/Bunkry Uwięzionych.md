@@ -1,4 +1,4 @@
-> [!danger] Opis regionu
+p> [!danger] Opis regionu
 
 Podziemna forteca zbudowana przez klany magów zamkniętych pod ziemią przez Hegemonie.
 

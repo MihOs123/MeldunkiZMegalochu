@@ -7,3 +7,5 @@ Terakotowe goryle - nie wiem kiedy zostały sworzone ale jak w czasie co kamienn
 Kania łez - grzyb
 
 bat(at)owy trybunał
+
+
