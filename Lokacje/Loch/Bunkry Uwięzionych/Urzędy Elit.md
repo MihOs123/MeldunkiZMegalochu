@@ -1,4 +1,4 @@
-Część lochu w [[Bunkry Uwięzionych]]
+Część lochu w [[Bunkry Uwięzionych]] 
 
 Pokoje w których mieszkali i pracowali kapłani, urzędnicy itp.
 ### Zawartość
