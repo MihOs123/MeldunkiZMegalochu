@@ -6,22 +6,23 @@ Na **piętrze** była tawerna, ołtarz i pare mieszkań dla magów.
 Pod samym **sufitem** są otwory, które pozwalają strzelcom atakować ludzi na parterze.
 A nisko na **ścianach** można otwierane włazy które wydają się nieskończenie ciemne.
 ### Parter
-Na środku sali jest fontanna, do której woda kiedyś spływała z wytrysków w suficie. Woda w samej fontannie jest mętna i nasty zgniła, a spływy są zablokowane zgniłą papką.
-Na dnie są rozłożone ciała, mają przy sobie pare kryształów i (Loot: Sakwa)
+Na środku sali jest fontanna, do której bardzo powoli kapie woda z wytrysków w suficie. Woda w samej fontannie jest mętna i nasty zgniła, a spływy są zablokowane zgniłą papką, także lekko wylewa sie na podłoge.
+Na dnie oraz obok fontanny są rozłożone ciała, te na dnie mają przy (Loot: Sakwa).
+Dwa ciała obok fontanny to nieumarli, jednak są na tyle słabi że nie zaatakują puki nie wejdzie się z nimi w interakcje
 
 Na ścianach znajdują się drewniane włazy po których otworzeniu uderza mocny smród, prowadzą one stromo w dół a same ściany są bardzo gładkie. Po zdecydowaniu sie na zejście jedym z włazów spadnie się do [[Śmietnik]]
 
-Dookoła w sukiennicach są różniaste warsztaty dóbr codziennego użytku. Są tu stosy beczek (5 x Loot: Beczka)
+Dookoła w sukiennicach są różniaste warsztaty dóbr codziennego użytku. Są tu stosy pustych beczek jeśli jednak przeszuka się to miejsce dokładniej, znaleźć tu można (Loot: Skrzynia)
 ### Piętro
-Na przeciwko drzwi wejściowych do tej lokacji jest ołtarz, na lewo tawerna, na prawo mieszkania.
+Na przeciwko drzwi wejściowych do tej lokacji jest rozwalony ołtarz, na lewo tawerna, na prawo mieszkania.
 **Ołtarz**
-Ołtarz blaty ze "złotym posążkiem". Jest k4 czerwonych świeczek, które można użyć jako element czaru/rytuału dla bonusu. Zabranie posążku może skutkować przekleństwem.
-Ołtarz jest obrośnięty Porostem Lochowym
+Zdewastowany ołtarz blaty z widocznymi śladami spalenia. Zaczyna go obrastać Olejec.
+Ołtarz jest obrośnięty w części przypalonym Porostem Lochowym
 **Tawerna**
 Duża tawerna wyryta w skale. Meble i bar też jest ze skały. Wisi tutaj kilka szkieletów z tabliczkami "Zdrajca", "Tchórz".
-Za barem są kraniki z których można ulać (100 x Grzybowy alkohol). Za barem jest też (Loot: Beczka)
+Za barem są kraniki z których można ulać (100 x Grzybowy alkohol). Za barem jest też ukryta szkatułka pod wystającą deską w podłodze (Loot: Sakwa (monety X3)).
 **Mieszkania**
-Trzy wielopokojowe mieszkania. W każdym jest sypialnia, jadalnia i biuro. Każde mieszkania ma w sobie (Loot: Skrzynia).
+Trzy wielopokojowe mieszkania. W każdym jest sypialnia, jadalnia i biuro. Każde mieszkania ma w sobie k4 Zapasów i potencjał na jakieś papiery, mogą szwędać się tu duchy.
 ### Event
 Jeżeli paskudy nie zostały wytępione i gracze zrobią hałas krzycząc albo przerzucając graty 
 
