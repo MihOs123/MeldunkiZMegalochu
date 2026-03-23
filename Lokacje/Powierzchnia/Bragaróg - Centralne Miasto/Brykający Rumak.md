@@ -14,3 +14,6 @@ Jedzenie+Piwo tutaj kosztuje 3MK i daje k8 wigoru
 Piwo tutja kosztuje 1MK i daje k6 wigoru
 
 Julka i Targon mają dług 5MK na kreske
+
+### Tymczasowo
+Znajdują sie tu plakaty z informacją: poszukiwana jest mag w bursztynowej szacie oraz białej masce, zwyczajnej męskiej budowie, mniej wiecej rysunek jak wygladala, żywa lub martwa, jest za to nagroda 150mk.

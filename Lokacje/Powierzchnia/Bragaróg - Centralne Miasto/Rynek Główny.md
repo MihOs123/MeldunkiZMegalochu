@@ -15,3 +15,6 @@ Jest tutaj rynek graczy.
 Karam Bit - jest taprobańskim handlarzem który sprzedaje tylko tutaj. Oryginalnie sprzedaje narzędzia oraz taprobańskie sery (bez certyfikatu) ale potem zaczyna sprzedawać sprzęt dla podróżników. Jest tu znany bo jest najgłośniejszy i ekscentryczny.
 
 Stara Baba - stara ekscentryczna zielarka. Matka Melwy. Sprzedaje zioła poziomu pierwszego.
+
+### Tymczasowo
+Znajduje się tu krzykacz który ogłasza że poszukiwana jest mag w bursztynowej szacie oraz białej masce, zwyczajnej męskiej budowie, żywa lub martwa, jest za to nagroda 200mk.

@@ -15,4 +15,7 @@ Nad wrotami jest płaskorzeźba skrzyżowanych mieczy. Jeżeli ktoś umie staroc
 ### NPC
 
 ### Tymczasowo
+Ze względu na ostatnie nielegalne przekroczenie bramy, została wzmożona ilość strażników pilnujących bramy.
+
+Znajdują sie tu też plakaty z informacją: poszukiwana jest mag w bursztynowej szacie oraz białej masce, zwyczajnej męskiej budowie, mniej wiecej rysunek jak wygladala, żywa lub martwa, jest za to nagroda 150mk.
 
