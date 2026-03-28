@@ -27,3 +27,5 @@ Po tym jak nie został przepuszczony przez brame mieczy, nielegalnie sie tam wpi
 Karawana którą był prowadzony Fabio została uprowadzona przez Zerman którzy nie wiedzieli whats the deal with this guy i kiedy mieli go zajebać uciekł od nich.
 
 chlopcy weszli do lochu
+
+droga w lochu - 6pik; 7pik
