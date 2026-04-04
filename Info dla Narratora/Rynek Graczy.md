@@ -9,3 +9,11 @@ Kupujący może rzucić żeby się targować, odejmując umiejętność jakąś 
 | Część. Wynik  | Cena domyślna              |
 | Porażka       | Cena domyślna + (zniżka/2) |
 | Kryt. Porażka | Cena domyślna + zniżka     |
+
+
+_____________________________________
+
+
+| Item                    | Cena | Cena min. | Właściciel |
+| ----------------------- | ---- | --------- | ---------- |
+| Bukłak ze szlamem zjawy | 50   | 10        | Koza       |
