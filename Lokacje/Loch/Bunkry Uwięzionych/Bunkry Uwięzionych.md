@@ -48,5 +48,5 @@ Wstępna mapa (niektóre lokacje będą stałe):
 | Świecz Lochowy   | Rzadka       | Roślina | Świadomość I, Światło I |
 ### Prowadzenie biomu
 
-Aktualna talia: 1-7 każdego koloru
+Aktualna talia: 1-7 każdego koloru. Zostało usunięte 6 i 7 PIK
 Niestabilność: 1 - lokacje są stałe, koszt ścieżek jest stały
