@@ -46,7 +46,7 @@ Wstępna mapa (niektóre lokacje będą stałe):
 | Porost Lochowy   | Niepospolita | Roślina | Leczenie I              |
 | Olejec           | Niepospolita | Grzyb   | Smar I, Sycenie I       |
 | Świecz Lochowy   | Rzadka       | Roślina | Świadomość I, Światło I |
-### Tymczasowe
-Gdy gracze wejdą do tego regionu po raz pierwszy będą mogli zebrać ze sobą naprawdę nieludzkie gargantuiczne sumy pieniędzy. Gdy wyjdą muszą zostać dorwani przez straż która im zarekwiruje większość jako podatek (i dlatego że to własność klanu teorytycznie).
+### Prowadzenie biomu
 
-Gracze mogą uniknąć tego podatku jeżeli powiedzą, że są w procesie zakładania gildii czy coś, ale wtedy kupa kasy pójdzie w budowę gildii.
+Aktualna talia: 1-7 każdego koloru
+Niestabilność: 1 - lokacje są stałe, koszt ścieżek jest stały
