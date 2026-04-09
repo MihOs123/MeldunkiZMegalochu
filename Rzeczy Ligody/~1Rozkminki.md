@@ -9,3 +9,6 @@ Kania łez - grzyb
 bat(at)owy trybunał
 
 
+Kobieta ktora porawala dzieci kleryka i ukryla sie w studni,
+
+

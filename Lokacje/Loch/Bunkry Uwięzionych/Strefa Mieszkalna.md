@@ -7,7 +7,7 @@ W co niektórych mieszkaniach znajdują się drewniane włazy, prowadzą one str
 
 Im bliżej wyjścia się znajdujesz tym mniej rzeczy znajduje się w pokojach, wyjście czasem może zmienić swoją pozycje w zależności od działań osób znajdujących się w labiryncie.
 
-W labiryncie znaleźć można także duża podwładnego kwartermistrza.
+W labiryncie znaleźć można także ducha podwładnego kwartermistrza.
 Gadatliwy, samotny, duch ciecia kwatermistrza - akceptacja i słuchanie jego historii wysysa z ciebie energie życiową. Jeśli jednak będzie się dla niego nie miłym może zaatakować. 
 
 

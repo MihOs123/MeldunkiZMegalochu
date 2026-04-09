@@ -14,6 +14,9 @@ Kupujący może rzucić żeby się targować, odejmując umiejętność jakąś 
 _____________________________________
 
 
-| Item                    | Cena | Cena min. | Właściciel |
-| ----------------------- | ---- | --------- | ---------- |
-| Bukłak ze szlamem zjawy | 50   | 10        | Koza       |
+| Item                      | Cena | Płynność | Właściciel |
+| ------------------------- | ---- | -------- | ---------- |
+| Bukłak ze szlamem zjawy   | 50   | +-40     | Koza       |
+| Saletra                   | 50   | +-15     | Szymon     |
+| Opal                      | 50   | +-15     | Szymon     |
+| Jad Węża (średnia jakość) | 50   | +-20     | Żegota     |
