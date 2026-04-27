@@ -1,4 +1,4 @@
-Część lochu w [[Bunkry Uwięzionych]]
+Część lochu w [[⚡Bunkry Uwięzionych]]
 
 Cysterna zamieszkała przez Paskudy.
 ### Kanał Wejściowy

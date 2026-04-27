@@ -1,4 +1,4 @@
-Część lochu w [[Bunkry Uwięzionych]]
+Część lochu w [[⚡Bunkry Uwięzionych]]
 
 Szpital jest podzielony na 7 pokoi korytarz i duży otwarty piec.
 Wszystkie ściany poza tymi od pieca są zrobione z drewna

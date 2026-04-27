@@ -1,4 +1,4 @@
-Część lochu w [[Bunkry Uwięzionych]]
+Część lochu w [[⚡Bunkry Uwięzionych]]
 Sekcja mieszkalna dla biednych mieszkańców Bunkrów.
 ### Opis
 ### Zawartość

@@ -1,4 +1,4 @@
-Część lochu w [[Bunkry Uwięzionych]]
+Część lochu w [[⚡Bunkry Uwięzionych]]
 Duża stołówka dla wszystkich mieszkańców bunkrów.
 ### Zawartość
 Duża hala ze stołami i krzesłami.

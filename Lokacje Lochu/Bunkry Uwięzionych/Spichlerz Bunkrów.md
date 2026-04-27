@@ -1,4 +1,4 @@
-Część lochu w [[Bunkry Uwięzionych]]
+Część lochu w [[⚡Bunkry Uwięzionych]]
 
 Seria spichlerzy pełnych grzybowego alkoholu i jedzenia
 

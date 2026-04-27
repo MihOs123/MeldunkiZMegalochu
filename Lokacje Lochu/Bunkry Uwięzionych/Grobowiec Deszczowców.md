@@ -1,4 +1,4 @@
-Część lochu w [[Bunkry Uwięzionych]]
+Część lochu w [[⚡Bunkry Uwięzionych]]
 Ukryte przejście do [[Bagno-Ścieki]]
 
 Piękny grobowiec zbudowany dla starszyzny Deszczowców, która nie doczekała się wyjścia na powierzchnie. Aktualnie zbrukany ściekiem i zamieszkały przez bestie.

@@ -1,4 +1,4 @@
-Część lochu w [[Bunkry Uwięzionych]]
+Część lochu w [[⚡Bunkry Uwięzionych]]
 
 2-piętrowa (+parter) duża sala z sukiennicami.
 **Parter** służył jako centralny punkt bunkru i jako taki "główny rynek".

@@ -1,4 +1,4 @@
-**Sąsiedzi**: [[Ołtarzysko]], [[Plac Molocha]], [[Bunkry Uwięzionych]]
+**Sąsiedzi**: [[Ołtarzysko]], [[Plac Molocha]], [[⚡Bunkry Uwięzionych]]
 
 Dziura która miała otworzyć handel z Zawiniętymi Krainami ale natrafiła na loch.
 ### Zawartość

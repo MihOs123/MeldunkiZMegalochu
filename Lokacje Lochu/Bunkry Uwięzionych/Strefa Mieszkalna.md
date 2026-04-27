@@ -1,4 +1,4 @@
-Część lochu w [[Bunkry Uwięzionych]]
+Część lochu w [[⚡Bunkry Uwięzionych]]
 
 Wielopiętrowy labirynt prawie-identycznych jednopokojowych mieszkań który zmienia swoje ustawienie za każdym razem gdy się do niego wejdzie.
 
