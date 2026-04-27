@@ -28,7 +28,7 @@ Ich sekcja lochu:
 
 ![[Sciaga-Skarby.png]]
 
-
+Main villain predict:
 Jeden z szabrownikow od kluczy x2
 Karam Bit x2
 Ludmiła 

@@ -61,6 +61,7 @@ crazy-ass-mag
 
 ![[Sciaga-Skarby.png]]
 
+Main villain predict:
 Stara Baba Zielarka
 Taprobańczyk
 Matriarcha x2
@@ -70,5 +71,4 @@ Kult Księżyca Irys
 Podejrzany stary mag napewno nie
 
 MVP: Julka
-
 
