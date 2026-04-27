@@ -19,6 +19,5 @@ _____________________________________
 | Bukłak ze szlamem zjawy   | 50   | +-40     | Koza       |
 | Saletra                   | 50   | +-15     | Szymon     |
 | Opal                      | 50   | +-15     | Szymon     |
-| Jad Węża (średnia jakość) | 50   | +-20     | Żegota     |
 | Kodeks Maga (kontroluje)  | 500  | +-300    | Tarzan     |
-| Dżem x2 ???????           |      |          | Supcio     |
+| Magiczny Dżem Premium     | 100  | +-50     | Supcio     |
