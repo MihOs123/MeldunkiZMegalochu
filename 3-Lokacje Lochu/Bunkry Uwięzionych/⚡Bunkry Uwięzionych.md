@@ -1,38 +1,37 @@
 > [!danger] Opis regionu
 
 Podziemna forteca zbudowana przez klany magów zamkniętych pod ziemią przez Hegemonie.
-
 Jednym z zamkniętych tutaj klanów był Klan Deszczowców. 
-
-Bunkry oryginalnie zostały ogołocone zaraz po otworzeniu się na powierzchnie, działania lochu jednak je odnowiły i ponownie wypełniły skarbami żeby zachęcić podróżników.
-
-Jest to pół-dynamiczny region lochu
-
-Lokacje (żeby nie spamić plikami):
-- Sekretne przejścia na powierzchnie / do ścieków
-- Farmy grzybów
-- Warsztaty (stolarz, kamieniarz)
-- Gorzelnia
-- Pastwisko / Hodowla
-- Kuchnie + tkalnie + Rzeźnia
-- [[Spichlerz Bunkrów]]
-- [[Śmietnik]]
-- [[Baraki]]
-- [[Szpital]]
-- [[Urzędy Elit]]
-- [[Strefa Mieszkalna]]
+## Lokacje
+- [[Kuchnie]]
+- [[Wejściowa Galeria]]
 - [[Sala Centralna]]
+- [[Strefa Mieszkalna]]
+- [[Bunkrowa Cysterna]]
+- [[Urzędy Elit]]
 - [[Stołówka]]
-- [[Bunkrowa Cysterna]] (i współczesnych cystern?)
+- [[Baraki]]
+- [[Kopalnie]]
+Jeszcze nieodkryte:
+- [[Farmy Grzybów]]
+- [[Gorzelnia]]
+- [[Śmietnik]]
+- [[Warsztaty]]
+- [[Szpital]]
+- [[Spichlerz Bunkrów]]
 - [[Kuźnia]]
 - [[Zbrojownia]]
-- Kopalnie
 - [[Grobowiec Deszczowców]]
+## Prowadzenie
+
+Aktualna talia: 1-7 każdego koloru. Zostało usunięte 6 i 7 PIK
+Niestabilność: 1 - lokacje są stałe, koszt ścieżek jest stały
+
 Zagrożenia:
 - Pułapki konwencjonalne i magiczne zastawione przez wychodzących deszczowców
 - Grupa paskud, których nikomu nie chciało się zabierać na powierzchnie
 - Wędrujące potwory z innych części podziemi
-- Duchy po deszczowcach którzy chcieli zostać podziemią i zostali zabici
+- Duchy po deszczowcach którzy chcieli zostać pod ziemią i zostali zabici
 - Wrodzy szabrownicy
 Wstępna mapa (niektóre lokacje będą stałe):
 ![[PierwszySchematBunkrow.png]]
@@ -46,7 +45,4 @@ Wstępna mapa (niektóre lokacje będą stałe):
 | Porost Lochowy   | Niepospolita | Roślina | Leczenie I              |
 | Olejec           | Niepospolita | Grzyb   | Smar I, Sycenie I       |
 | Świecz Lochowy   | Rzadka       | Roślina | Świadomość I, Światło I |
-### Prowadzenie biomu
 
-Aktualna talia: 1-7 każdego koloru. Zostało usunięte 6 i 7 PIK
-Niestabilność: 1 - lokacje są stałe, koszt ścieżek jest stały

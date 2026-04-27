@@ -1,6 +1,6 @@
 > [!success]
 
-Loch: [[Kopalnie Miedzi]]
+Loch: [[⚡Kopalnie Miedzi]]
 
 Lokacja Kopalnie miedzi (potencjalnie mógłby mieć też lokacje taką w innym biomie)
 

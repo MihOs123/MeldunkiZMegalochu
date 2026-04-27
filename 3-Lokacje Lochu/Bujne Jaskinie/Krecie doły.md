@@ -1,6 +1,6 @@
 > [!success]
 
-Loch: [[Bujne Jaskinie]]
+Loch: [[⚡Bujne Jaskinie]]
 
 Ścieżka z ukrytą zapadnią prowadzącą do celi kretoludzi
 ### Zawartość
