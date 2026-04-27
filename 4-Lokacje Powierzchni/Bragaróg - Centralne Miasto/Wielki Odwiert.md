@@ -12,5 +12,5 @@ Wykopaliska zostały spowolnione przez odkrycie lochu. Teraz rozstawione są tam
 
 W połowie wysokości dziury rampa obija na [[Plac Molocha]].
 ### NPC
-
+Karam Bit - jest taprobańskim handlarzem który sprzedaje tylko tutaj. Sprzedaje taprobańskie sery (bez certyfikatu) i sprzęt dla podróżników. Jest głośny i ekscentryczny.
 ### Tymczasowo
