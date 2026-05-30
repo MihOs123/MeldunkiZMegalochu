@@ -14,10 +14,15 @@ Kupujący może rzucić żeby się targować, odejmując umiejętność jakąś 
 _____________________________________
 
 
-| Item                      | Cena | Płynność | Właściciel |
-| ------------------------- | ---- | -------- | ---------- |
-| Bukłak ze szlamem zjawy   | 50   | +-40     | Koza       |
-| Saletra                   | 50   | +-15     | Szymon     |
-| Opal                      | 50   | +-15     | Szymon     |
-| Kodeks Maga (kontroluje)  | 500  | +-300    | Tarzan     |
-| Magiczny Dżem Premium     | 100  | +-50     | Supcio     |
+| Item                     | Cena | Płynność | Właściciel |
+| ------------------------ | ---- | -------- | ---------- |
+| Bukłak ze szlamem zjawy  | 50   | +-40     | Koza       |
+| Kodeks Maga (kontroluje) | 500  | +-300    | Tarzan     |
+| Magiczny Dżem Premium    | 100  | +-50     | Supcio     |
+| Miecz idioty*            | 150  | +-20     | Kuba M     |
+| Miecz "Random"*          | 120  | +-90     | Supcio     |
+
+
+
+*miecz "Random" - zwykły brązowy miecz
+*miecz idioty - zwykły brązowy miecz
