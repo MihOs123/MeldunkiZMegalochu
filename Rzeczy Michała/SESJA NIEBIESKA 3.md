@@ -1,3 +1,15 @@
+Garfug informuje że jest już po drzemce regeneracyjnej i że chce żeby drużyna weszła do miejsca mocy gdzieś w lochu po cośtam.
+
+
+
+
+
+
+TARZAN + GARFUG
+
+
+
+
 TU NOTUJE PODZIAŁ
 
 Ludmiła przyzywa pożyczone moce w posążku blaty aby zmusić loch żeby zjadł drużynę.
