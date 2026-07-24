@@ -30,7 +30,9 @@ Idąc dalej przez korytarze w zasięgu gdzie pada światło z latarni pojawi sie
 
 niedaleko pozniej wyjdą na otwartą przestrzeń, ujrzą widok zrujnowanego miasta. Widać też kilku chodzących ludzi i zwierząt ale zbliżając sie do nich gdy będzie padać na nich światło latarni będzie moża zobaczyć ich prawdziwą postać, zdeformowanych abominacji
 
-CO TUTAJ (duchy, niewidzialne rzeczy co tylko jak ma sie latarnie to widać, coś ku czemu mogą chcieć podążać, jakiś pościg zeby skonczyli w danym miejscu, zagadka lub boss)
+CO TUTAJ (duchy, niewidzialne rzeczy co tylko jak ma sie latarnie to widać, coś ku czemu mogą chcieć podążać, jakiś pościg zeby skonczyli w danym miejscu, zagadka lub boss) kraina snów zdominowana przez inna istote
+
+
 
 Stoi tam dokładnie taka sama brama jak przez którą weszli.
 Po drugiej stronie leżą ich ciała. Przechodząc przez brame wrócą do swoich ciał a przed nimi są schody które prowadzą do głębszych części lochu.
