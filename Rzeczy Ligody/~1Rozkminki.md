@@ -12,3 +12,14 @@ bat(at)owy trybunał
 Kobieta ktora porawala dzieci kleryka i ukryla sie w studni,
 
 
+
+biom czarna góra:
+bezkresna czarna płaszczyzna + bezkresna czarna góra. na niebie są burzliwe chmury, nad czubkiem góry jest dziura w chmurach widac niebo (bez gwiazd). widac tam tez ksiezyc (różny)
+
+mozna z tad przejsc do tafli gwiazd wchodzac w chmury, mozna wejsc jakos pod góre i tam byłby albo jakis biom typu wet ass cave, albo pomysł - pałac kamiennych twarzy
+
+
+biom tafla gwiazd:
+elden ring arena typeshit. mnostwko gwiazd na niebie (tez takie co w irl swiecie nie widac). gwiazdy te sie odbijaja w tafli wody. generalnie calkiem op lokacja chyba bo w gwaizdach pewnie mozna duzo zobaczyc
+
+
