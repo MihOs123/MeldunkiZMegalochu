@@ -9,6 +9,10 @@ potencjalnie mega loot co ma kilka uzyc aby bo jest zepsuty
 
 
 
+Puki jest tu woda panuje tu król. Jeżeli ktoś spróbuje się mu postawić będzie wysyłać swoich poddanych, jeśli to nie zadziała sam zdominuje rebelie. Jeżeli rebelia będzie zbyt silna, schowa się w swoim podwodnym zamku zamku a spod ziemi będzie władać swą pięścią. Jeżeli będzie trzeba wywoła kataklizm. Gdy wody zabraknie, jego rząd upadnie, sam zacznie obumierać. Jednak król ten nie podda się tak łatwo, będzie bronić swego zamku do ostatniej cząstki fali w jego organizmie. Ten który obali króla znajdzie drogę do podziemnego królestwa.
+
+
+
 
 
 
