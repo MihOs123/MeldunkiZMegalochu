@@ -7,4 +7,4 @@ drużyna niebieska ma martwego menela w domu
 
 Małodziej z Bragarogu nienawidzi kazdego boga
 
-jagna z deszczowców z bratem nie lubia istoty kosciola
+jagna z deszczowców z bratem(jagien) nie lubia istoty kosciola

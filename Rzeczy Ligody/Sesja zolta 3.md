@@ -30,9 +30,36 @@ Idąc dalej przez korytarze w zasięgu gdzie pada światło z latarni pojawi sie
 
 niedaleko pozniej wyjdą na otwartą przestrzeń, ujrzą widok zrujnowanego miasta. Widać też kilku chodzących ludzi i zwierząt ale zbliżając sie do nich gdy będzie padać na nich światło latarni będzie moża zobaczyć ich prawdziwą postać, zdeformowanych abominacji
 
-CO TUTAJ (duchy, niewidzialne rzeczy co tylko jak ma sie latarnie to widać, coś ku czemu mogą chcieć podążać, jakiś pościg zeby skonczyli w danym miejscu, zagadka lub boss) kraina snów zdominowana przez inna istote
+abominacje obrażenia na stres lub na hp zalezy jak je spotkaja
+
+W oddali widać zamek/twierdze, jak będą próbować się do niej zbliżyć to sie nie zbliżą.
+
+W pewnym momencie jeśli nie wymyśla czegość, zobaczą jak ruiny taką falą sie niszczą i to sie zbliża do nich
+(jeśli padnie na to światło latarni to zobaczą że to fala abominacji)
+
+jeśli zaczną uciekać to na końcu trafią tuż pod zamek
+Będą tu zamkniete drzwi do zamku
+
+CO TUTAJ (duchy, niewidzialne rzeczy co tylko jak ma sie latarnie to widać, zagadka lub boss) kraina snów zdominowana przez inna istote
 
 
-
+na koncu gdy maja wychodzic
 Stoi tam dokładnie taka sama brama jak przez którą weszli.
-Po drugiej stronie leżą ich ciała. Przechodząc przez brame wrócą do swoich ciał a przed nimi są schody które prowadzą do głębszych części lochu.
+Po drugiej stronie leżą ich ciała. Przechodząc przez brame wrócą do swoich ciał a przed nimi są schody które prowadzą do głębszych części lochu. Mogą też zauważyć że na ręce każdy z nich ma teraz wypalony krąg taki jak na bramie
+
+
+przestoje
+lucek 2 asy  pracuje jako grajek
+żegota pomaga biednym i strażnicy go podejrzewaja o probe kradziezy calego jedzenia ŻEGOTA JAK RZUCA CZARY TO CEL KRWAWIENIE DOSTAJE
+fabio byl gladiatorem
+cuckiusz ćwiczył i byl gladiatorem
+
+![[Pasted image 20260725171724.png]]![[Pasted image 20260725180827.png]]
+
+
+Sala centralna -0-> szpital
+
+szpital spalił sie
+
+szpital -6-> mieszkania
+bunkier -2-> śmietnik

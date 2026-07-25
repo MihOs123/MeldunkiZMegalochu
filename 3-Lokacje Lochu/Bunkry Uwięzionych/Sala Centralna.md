@@ -20,7 +20,7 @@ Zdewastowany ołtarz blaty z widocznymi śladami spalenia. Zaczyna go obrastać 
 Ołtarz jest obrośnięty w części przypalonym Porostem Lochowym
 **Tawerna**
 Duża tawerna wyryta w skale. Meble i bar też jest ze skały. Wisi tutaj kilka szkieletów powieszonych za nogi z tabliczkami "Dawca", "Trup", "Za wysokie ceny).
-Za barem są kraniki z których można ulać (100 x Grzybowy alkohol). Za barem jest też ukryta szkatułka pod wystającą deską w podłodze, jest ona jednak pusta.
+Za barem są kraniki z których można ulać (1x Grzybowy alkohol). Za barem jest też ukryta szkatułka pod wystającą deską w podłodze, jest ona jednak pusta.
 **Mieszkania**
 Trzy wielopokojowe mieszkania. W każdym jest sypialnia, jadalnia i biuro. Każde mieszkania ma w sobie k4 Zapasów i potencjał na jakieś papiery, mogą szwendać się tu duchy.
 ### Event

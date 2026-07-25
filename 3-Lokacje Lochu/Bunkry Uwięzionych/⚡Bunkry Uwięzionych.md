@@ -1,3 +1,4 @@
+
 > [!danger] Opis regionu
 
 Podziemna forteca zbudowana przez klany magów zamkniętych pod ziemią przez Hegemonie.
@@ -24,7 +25,7 @@ Jeszcze nieodkryte:
 - [[Grobowiec Deszczowców]]
 ## Prowadzenie
 **Aktualna talia**:
-- 1, 2 ♠PIK
+- 1, 3 ♠PIK
 - 1-7 ♣TREFL
 - 1-5, 7 ♥KIER
 - 2-7 ♦KARO
