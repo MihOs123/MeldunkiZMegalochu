@@ -39,8 +39,7 @@ Budzą się bez ciał, wychodzą ze słodkiej rzeki purpuru. Supcio by znał ten
 "Ahhh, dawno mnie tu nie było. Przepraszam ale musiałem was na chwile przenieść do Kraju Magów bo inaczej loch by was zabił. Dobrze że jeszcze żyjecie, ledwo mogłem was tu znaleźć"
 
 "Spróbujcie znaleźć droge do domu tylko nie wymyślcie nic dziwnego ani strasznego hehe, ja tu spróbuje wam pomóc ale jednocześnie szukam tu troche informacji o tym lochu więc poradzcie sobie sami chwile."
-
-
+(niech mają wybór)
 (jednoczesnie probuje wyciagnac was z flakow lochu a wy szukajcie informacji?)
 
 
@@ -95,3 +94,23 @@ Odp.Mag : 1
 | -------------------------------------------------------------- |
 | Pierwszy atak, który trafi Napastnika, zadaje tylko 1 obrażeń. |
 | Efekt / Kończyna: ⬜⬜                                           |
+
+
+### Notataki z krainy snow
+tarzan widzi supcia (to nie supcio)
+kuba widzi pokój święży, jakis stol pulka, szafka z butelkami. Stolil (nieudany rzut)(ta sama strona rzeki)(zmienia sie w klatke)
+supcio widzi magiczną bramę taka jaka było widać na plaskorzezbie (udany rzut)(po obu stronach)
+
+spotykaja garfuga pomaga im
+
+tarzan sie rozdziela do spucia(fake)(skinwalker demon)
+supciowi sie udało badanie (git) (odkrywa lokacje hubu portalowego w swiecie snow i irl)
+kuba w lesie widzi znaki wydrapane na drzewach (git)
+
+tarzan odchodzi od creepey ahh supcia i idzie az nie spotka handlarza demona na statku (wiedza za korupcje)
+
+kuba patrzy w głąb ziemi zeby dojrzec mapy lochu, dostaje fraktalny flashbang z centrum lochu
+
+spotykaja w lesie i walcza z duszkami honorwoymi lasu zeby zdobyc tetrahedrony
+
+nie wiadomo gdzie wrocili do swoich cial (moze walka z wezem)
