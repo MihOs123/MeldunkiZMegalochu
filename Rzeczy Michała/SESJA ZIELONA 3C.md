@@ -3,7 +3,7 @@ Gdy Julka i Karolina przybyły do miasta w śnieżyce, natychmiast skontaktował
 Późnym wieczorem, gdy księżyc jest już na niebie wszystkie kanarki, a razem z nimi oddział straży idą na miejsce gniazda zmiennokształtnych. Stodoła się pali, wejście do tuneli zostało zasypane. Oślizgle wyglądający wieśniacy gaszą pożar zanim się rozprzestrzeni. Dowódczyni jest wściekła, kapitan straży też ale na kanarki.
 Kapitan straży nawet podejrzewa jakiś spisek.
 
-W tym czasie Julka, Targon i Karo mogą być gdzieś indziej. Targon moze miec scene ktora lepiej go zwiaze z kanarkami albo moze szantaz deszczowców.
+~~W tym czasie Julka, Targon i Karo mogą być gdzieś indziej. Targon moze miec scene ktora lepiej go zwiaze z kanarkami albo moze szantaz deszczowców.~~
 
 Po tej nieudanej sytuacji jest zwołane przegrupowanie w bazie. Dowódczyni zbiera ponownie raporty i ponownie przeglądamy fakty.
 
@@ -53,7 +53,7 @@ ZNANE O ZMIENNOKSZTAŁTNYCH
 - Eksplorują loch, próbują zajść głeboko, po co?
 - Łapią ludzi żeby podmieniać ich za swoich.
 - Łapią ludzi żeby ich wsadzać do kapsuł i trzymać(?)
-- Przejeli osade przybrzeżną (nie wiem czy dowódca będzie wiedzieć?)
+- Przejeli osadę przybrzeżną
 - Większość z nich jest częścią roju o bliżej nieokreślonej wielkości i jakości połączenia. Mimo że rój nie jest jakoś mega mocno złączony to i tak jakaś siła nie pozwala go dobrze zinfiltrować magom
 
 Z ZEZNAŃ KARO I JULKI
@@ -72,13 +72,28 @@ Co chcą osiągnąć Kultyści Księżyca?
 Czego chce Wielki Petro i czemu współpracuje z Kultystami
 
 
+---
 
+### Ekstra podpowiedzi
 
+BIOM KRAINY SNOW
+Jakby ktos skojarzyl ze to miejsce ustala kto rządzi księżycem -> evil ass eye chce podbić sobie księżyc i przybyć tu
 
+LIST Z PIECZĘCIĄ KULTU KRULLA
+
+Pozdrowienia wam strażnicy porządku.
+
+Krull obserwuje sytuacje. Wierzymy, że misja Kanarków jest taka sama jak misja powierzona Krullowi przez stworzyciela. Zrobimy co w naszej mocy żeby obce siły spoza tego świata nie położyły swoich łap na źródle Splotu Prawdopodobieństwa.
+
+RODZINNY SPADEK
+
+KWATERMISTRZ + OSZCZERSTWA
+
+PUSTA BAZA KSIĘŻYCOWCÓW
 
 ---
 
-Konkluzje ktore mają być osiągnięte:
+### Konkluzje ktore mają być osiągnięte:
 
 Zermanie i Księżycowcy chcą dosięgnąć Katalizatora Bogów gdzieś w głębi lochu
 - Zermanie robią to aby przyśpieszyć przybycie ich "boga"
@@ -105,3 +120,16 @@ Ligoda -
 Karo - 
 na koncu okaze sie ze bardziej cenia siebie nawzajem niz ich sekretne interesy?
 establish ze sa loners, establish ze moga na siebie liczyc, dac im wybor reject lub accept
+
+---
+
+### Notatki
+- Uzywaja kapsul zeby sobie dawac wspomnienia ofiar
+- Dowódczyni niezadowolona z wizji że ludzie kolaborują ze zmiennokształtnymi
+- Petrno nadal troche zapieczetowany i osłabiony
+- Podczas przestoju przenalizować punkty czy da sie zmontować jakiś krąg z tych punktów.
+- Wielki Petro może by sie chciał stać bogiem? Może on jest bogiem i chce odzyskac moc? Chce zabić bogów?
+- Trza by odkopac tą piwnice zmiennokształtnych???
+- Julka: odnajdzmy irys zeby moze cos zmontowac z tym przyjaznym ksiezycem jako alternatywa wzmocnienia perlyny (moze nie da sie przeniesc tego do perlyny)
+- Jak wymyslą motyw dla kampanii to daje goodboypointa
+
