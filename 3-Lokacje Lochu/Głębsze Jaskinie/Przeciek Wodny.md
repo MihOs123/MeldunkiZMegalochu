@@ -1,7 +1,7 @@
 Cześć lochu w [[⚡Głębsze Jaskinie]]
 
 3 Komory z licznymi szczelinami z których wartko wycieka woda małymi strumykami.
-
+### Zawartość
 W **pierwszej** komorze woda jest wyjątkowo krystalicznie czysta, smaczna i orzeźwiająca, ma efekt Leczenie I.
 Jest tutaj ołtarzyk wykuty w ścianie, składa się z małego piedestału, misy i posągu, nie da się jednak określić komu jest dedykowany bo woda zniszczyła całą jego górną część.
 - Za każdą złożoną tutaj ofiarę z jedzenia lub skarbów postać będzie mogła odrzucić jedną kartę w scenie szabru bez żadnych negatywnych efektów.
