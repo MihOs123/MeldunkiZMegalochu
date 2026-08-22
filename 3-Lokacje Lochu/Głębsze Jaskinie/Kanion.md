@@ -30,6 +30,8 @@ Przejście w lewo-dół to szczelina która wymaga przesuwać się po ścianie b
 
 Przejście w prawo to strumień, woda jest bardzo zimna i sięga miejscami pasa. Przejście znacznie wydłużone jeżeli drużyna nie znajdzie jakiejś łódki albo tratwy albo czegoś.
 
+Przy przejściu w prawo-dół percepcja zauważy pare wyssanych kostek i ociosany kamień.
+
 
 Interakcja - Nic - Interakcja
 Pieczęć - Wodzowie - Baron
