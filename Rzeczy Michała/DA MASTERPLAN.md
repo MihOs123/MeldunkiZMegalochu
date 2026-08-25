@@ -27,7 +27,7 @@ Sesja 5 LIPIEC:
 Sesja 6 SIERPIEŃ: 
 - "Co MY możemy zrobić z takim artefaktem?" + wytrącamy kogoś z wyścigu tylko kogo?
 
-AKT 3 ||| W którym kokon lochu się otworzy ||| Bóg Lochu / Księżyc Ascended / Arrival of the Overmind
+AKT 3 ||| W którym kokon lochu się otworzy ||| Bóg Lochu / Księżyc Ascended Descendent / Arrival of the Overmind
 Sesja 7 SIERPIEŃ: 
 - Otworzenie kokonu, uruchomienie silnika
 Sesja 8 WRZESIEŃ: 
