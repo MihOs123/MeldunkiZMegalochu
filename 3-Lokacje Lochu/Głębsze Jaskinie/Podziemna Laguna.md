@@ -1,0 +1,1 @@
+Cześć lochu w [[⚡Głębsze Jaskinie]]
