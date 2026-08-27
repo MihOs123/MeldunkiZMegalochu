@@ -56,46 +56,6 @@ Mogą dostać perkini:
 
 Drugą rzecz dostanie supcio
 Kuba dostaje inicjacje
-## Da Snake
-Snaaake snaaake oooogh its a snake
-
-- grobowce
-- kupy kości o ktore sie mozna wyjebac
-- guano węża
-
-Siła : 9
-Celność : 1
-Unik : 2
-Odp.Mag : 1
-
-| Atak PASZCZĄ                                |
-| ------------------------------------------- |
-| Zadaje 9 obrażeń istocie na tym samym polu. |
-| [ATAK] \| Kończyna: ⬜⬜⬜⬜⬜⬜⬜⬜⬜               |
-
-| Atak OGONEM                                 |
-| ------------------------------------------- |
-| Zadaje 4 obrażeń istocie na tym samym polu. |
-| [ATAK] \| Kończyna: ⬜⬜⬜⬜⬜                   |
-
-| Łuszczaste CIelsko                             |
-| ---------------------------------------------- |
-| Ta kończyna przyjmuje obrażenia jako pierwsza. |
-| Kończyna: ⬜⬜⬜⬜                                 |
-
-
-| Mnogość Ataków                                                 |
-| -------------------------------------------------------------- |
-| Napastnik wykonuje dwa ataki / interakcje podczas swojej tury. |
-| Efekt / Kończyna: ⬜⬜                                           |
-
-
-| Utwardzenie                                                    |
-| -------------------------------------------------------------- |
-| Pierwszy atak, który trafi Napastnika, zadaje tylko 1 obrażeń. |
-| Efekt / Kończyna: ⬜⬜                                           |
-
-
 ### Notataki z krainy snow
 tarzan widzi supcia (to nie supcio)
 kuba widzi pokój święży, jakis stol pulka, szafka z butelkami. Stolil (nieudany rzut)(ta sama strona rzeki)(zmienia sie w klatke)
