@@ -42,5 +42,11 @@ Te przejścia mają +2 rozdania, chyba że ma sie łódkę to mają tylko jedno.
 
 | Nazwa            | Rzadkość     | Typ     | Efekt                   |
 | ---------------- | ------------ | ------- | ----------------------- |
+| Pulchny Kapelusz | Pospolita    | Grzyb   | Sycenie I, Sycenie II   |
+| Siarka           | Pospolita    | Minerał | Dym I                   |
+| Porost Lochowy   | Niepospolita | Roślina | Leczenie I              |
+| Olejec           | Niepospolita | Grzyb   | Smar I, Sycenie I       |
+| Świecz Lochowy   | Rzadka       | Roślina | Świadomość I, Światło I |
+| Szlam Slime      | Niepospolity | Szlam   | Klej I, Ogien II        |
 
 
