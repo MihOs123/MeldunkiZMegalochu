@@ -33,7 +33,7 @@ Wydarzenie - We wszystkich opcja to raczej tracisz hp / tracisz eq / tracisz wig
 Skarby - skarby takie same.
 Odpoczynek - nic nie daje, automatycznie odrzucany na bok bez efektu.
 
-Te ścieżki nie mogą mieć kosztu.
+Te ścieżki nie mogą mieć kosztu, cały zdobyty koszt natychmiast ci odbiera zapasy komus nwm
 ### Przejście - rzeka
 Te przejścia mają +2 rozdania, chyba że ma sie łódkę to mają tylko jedno.
 

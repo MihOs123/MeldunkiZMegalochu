@@ -46,3 +46,9 @@ Odp.Mag : 1
 | -------------------------------------------------------------- |
 | Pierwszy atak, który trafi Napastnika, zadaje tylko 1 obrażeń. |
 | Efekt / Kończyna: ⬜⬜                                           |
+### Notatki
+zostawili złamany miecz niesmiertelnego przy pokoju ze smokiem
+
+bili sie ze szlachicem i obstawą i kanarkami w kanionie, zabili jednego kanarka ale to wyglądało jakby złydny rzucał czary i robił rozpierdol, kanarki sie ostatecznie ewakuowali
+wybombili całą saletre oprócz jednej
+kanarki ewidentnie będą tutaj robiły większe obunkrowanie

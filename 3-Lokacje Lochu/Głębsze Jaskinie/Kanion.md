@@ -35,3 +35,4 @@ Przy przejściu w prawo-dół percepcja zauważy pare wyssanych kostek i ociosan
 
 Interakcja - Nic - Interakcja
 Pieczęć - Wodzowie - Baron
+
