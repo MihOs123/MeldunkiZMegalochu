@@ -9,7 +9,7 @@ Nie chce mi sie wypisywać
 - 4-10 ♠PIK
 - 4-10 ♣TREFL
 - 4-10 ♥KIER
-- 4-10 ♦KARO
+- 4, 6-10 ♦KARO
 - Król Pików -> Objaw Bezkosta
 
 **Niestabilność**:

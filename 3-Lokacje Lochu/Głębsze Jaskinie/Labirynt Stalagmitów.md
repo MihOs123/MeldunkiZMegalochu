@@ -2,7 +2,7 @@ Cześć lochu w [[⚡Głębsze Jaskinie]]
 
 Okrągły labirynt ze stalaktytów i stalagmitów
 
-jest tutaj gniazdo jakichś potworókow, podróżnik-doktor któy się zgubił, jakaś blokada którą trzeba pokonać
+jest tutaj gniazdo jakichś potworków, podróżnik-doktor któy się zgubił, jakaś blokada którą trzeba pokonać
 
 1 - Dziura na dłoń, w kształcie dłoni (z dwoma kciukami dla obu dłoni). Nad dziurą runy jakieś demoniczne Gdy się włoży dłoń coś gryzie! Efekt losowy za każdym razem.
 - 1 - Odgryza dłoń.
@@ -16,7 +16,7 @@ jest tutaj gniazdo jakichś potworókow, podróżnik-doktor któy się zgubił, 
 - 9 - Daje mega fajny kryształ ale odgryza palec
 - 10 - Daje erudycje ale daje korupcje
 - 11 - Daje 2k12 wigoru ale odgryza palec
-- 12 - Zwiększa statystyke ale daje korupcje
+- 12 - Zwiększa statystykę ale daje korupcje
 2 - Jest tutaj 6 beczek
 3 - Lina wisielca zawieszona przy skale sufitowej.
 4 - Sakwa, w środku także pierścionek srebrny
@@ -33,3 +33,6 @@ litera - szansa na atak potwora
 - Wilkokret
 - Magiczna pułapka
 Raczej są słabe i atakują bardziej z zaskoczenia
+e - 20 nieumarłych stojących scaryahh, są gdzie indziej
+czerwona kreska - magiczna sciana
+czerwona kropka - szkielet bez głowy

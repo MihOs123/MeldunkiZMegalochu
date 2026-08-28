@@ -52,3 +52,25 @@ zostawili złamany miecz niesmiertelnego przy pokoju ze smokiem
 bili sie ze szlachicem i obstawą i kanarkami w kanionie, zabili jednego kanarka ale to wyglądało jakby złydny rzucał czary i robił rozpierdol, kanarki sie ostatecznie ewakuowali
 wybombili całą saletre oprócz jednej
 kanarki ewidentnie będą tutaj robiły większe obunkrowanie
+
+złydny nabity na stalaktyd/gmit przez bezkostka (nie wiedza ze to on)
+
+sciezka przeciek kanion koszt 2
+
+przy kiepskim rollu lootu masz cursed przedmiot
+
+tarzan znajduje cegłe dużą z nieznanym symbolem
+
+zbierają tylko dorody mech w przecieku wodnym, wyciagneli buty i trupa
+
+sciezka przeciek labirynt 2
+
+tarzan cursed przedmiot przeklęty pierscionek na stope
+
+zabrali line z labiryntu w 3
+
+zniszczyli diament 5 karte
+
+aresztowani jako wysłannicy blaty
+
+goodboypoint dla kazdego
