@@ -1,8 +1,9 @@
 Cześć lochu w [[⚡Głębsze Jaskinie]]
 
 Jaskinia zbudowana jak trzy pączki nabite na słup. Śmierdzi tutaj niesamowicie.
+Jest tu generalnie problematyczne żeby przejść z jednej warstwy do drugiej, nie ma przejścia normalnego.
 
-**Warstwa pierwsza** - 
+**Warstwa pierwsza** - Warstwa obsrana przez nietoperze
 - Jest tu przecisk do Laguny
 - Jest tu przejście do Jaskini Szlamu
 - Na środku, na środku sufitu jest ogromna gromada przytulonych nietoperzy.
@@ -18,6 +19,8 @@ Jaskinia zbudowana jak trzy pączki nabite na słup. Śmierdzi tutaj niesamowici
 
 **Warstwa trzecia** - Gniazdo wilkokretów, kręcą się na dole ignorując wszystko co na górze.
 - Jak się im rzuci coś organicznego zeżrą to natychmiast.
+- Wizualizacja zauważy że na dole w gnieździe wilkokretów jest krąg magiczny
+	- Krąg magiczny, zostawiony przez bóg wie kogo został wyryty w kamieniu i przygotowany na czar przejęcia kontroli nad wilkokretami.
 
 
 
