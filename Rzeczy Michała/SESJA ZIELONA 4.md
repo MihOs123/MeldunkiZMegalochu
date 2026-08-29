@@ -7,10 +7,17 @@ pokazanie nowej bazy wewnątzr lochu
 prośba o zbadanie miejsca zbrodni
 
 
+### Notatki
+zeloci blaty mogą chcieć wchodzić do lochu
+molohiści też chcą potencjalnie do lochu włazić
+blata is coming to town!
 
+ej drużyno niebieska,.. nie mozna sprzedawac broni
 
-matriarsze nie podoba się praca kanarków. żeby ukarać za nieudany ruch przeciwko zmiennokształtnym dostają rozkaz eksmisji poza pałac, matriarcha mysli ze sie przeniosa do tego budynku co im darowała
+ewidentnie jakas scary bestia zabiła tych ludzi - zmutowany zagubiony szabrownik
 
-kanarki jednak daly to ksiezycowcom. nowa baza wiec niech powstanie w lochu - górne części bądz co bądz sie stabilizują. Wprowadzaja sie do kopalni, beda zbierac cło z gostkow co beda sie tu pojawiac
+ścieżka kanion legowisko 5
+niszczy trefl 9 -> 9 serce, 10 serce
+niszczy 6 skarb
 
-kanary im przygotowały zejscie nizej tam gdzie byli, tera trzeba zejsc jeszcze nizej
+wyciagneli pierscionek z wody u troglodytow

@@ -16,7 +16,6 @@ _____________________________________
 
 | Item                      | Cena | Płynność | Właściciel |
 | ------------------------- | ---- | -------- | ---------- |
-| Bukłak ze szlamem zjawy   | 50   | +-40     | Koza       |
 | Magiczny Dżem Premium     | 100  | +-50     | Supcio     |
 | Miecz idioty*             | 150  | +-20     | Kuba M     |
 | Miecz "Random"*           | 120  | +-90     | Supcio     |

@@ -72,3 +72,33 @@ J - Sadzawka stojącej wody. Kapie tutaj woda z sufitu ale bardzo powoli. Czuć 
 - Magia w tym pokoju nie pozwala na dotknięcie tronu ani korony, zrobienie tego wysztrzeli piorun 10 obrażeń.
 14 - Tu jest zamurowany pokój, jest tu skrzynka
 15 - Tutaj jest ołtarz dla jakiegoś bożka co został zaklęty w posąg classic, ekstra bóg zajebiście co.
+
+---
+### Ulung Troglodit
+Siła : 6
+Celność: 1
+Unik: 1
+Odp.Mag: 1
+
+
+| Atak wręcz (złom)                           |
+| ------------------------------------------- |
+| Zadaje 6 obrażeń istocie na tym samym polu. |
+| [ATAK] \| Kończyna: ⬜⬜⬜                     |
+
+
+| Złomowa zbroja                                 |
+| ---------------------------------------------- |
+| Ta kończyna przyjmuje obrażenia jako pierwsza. |
+| Kończyna: ⬜⬜⬜⬜                                 |
+
+
+| Mnogość Ataków                                                 |
+| -------------------------------------------------------------- |
+| Napastnik wykonuje dwa ataki / interakcje podczas swojej tury. |
+| [ATAK] \| Kończyna: ⬜⬜⬜⬜                                       |
+
+| Awaryjny Atak z Dystansu     |
+| ---------------------------- |
+| Zadaje 2 obrażeń z dystansu. |
+| [ATAK] \| Kończyna: ⬜⬜       |
