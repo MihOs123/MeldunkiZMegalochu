@@ -5,7 +5,9 @@ Jest to podziemny kanion uformowany w dwa stopnie, w ścianach jest wiele szczel
 ### Zawartość
 Kanarki zorganizowały tutaj stosunkowo bezpieczne zejście z zabezpieczonych kopalni wyżej, mają tam też zbudowaną bazę. Mimo że są niedaleko raczej mają wyjebane co sie dzieje aby nie było jakiegoś mega dużego chaosu
 
-Zawsze znajdzie się tutaj co najmniej jedna/dwie z poniższych grup.
+Jest tutaj zawsze na dole ustawionych 5 strażników-kanarków, mają przygotowane czary wiążące, bariery i pułapki.
+
+Dodatkowo zawsze znajdzie się tutaj co najmniej jedna/dwie z poniższych grup.
 1 - Patrol kanarków, jeżeli nie sprawdzili oczu, zębów i włosów drużyny wyżej zrobia to tutaj
 2 - Grupa szabrowników, wchodzą dopiero do lochu, wyglądają na niedoświadczonych, mogą chcieć iść z drużyną.
 3 - Grupa szabrowników, wchodzą dopiero do lochu, wyglądają na doświadczonych
@@ -20,7 +22,7 @@ Zawsze znajdzie się tutaj co najmniej jedna/dwie z poniższych grup.
 12 - Mag z małą obstawą, niepowiązany z deszczowcami
 
 Rośnie tutaj na ścianach Porost Lochowy (Niepospolite | Leczenie 1)
-Oraz k4 saletry.
+Oraz 1 saletry.
 
 Jedna ściana tego kanionu jest bardzo mokra, woda z niej cieknie i formuje pokaźny strumień.
 ### Przejścia
@@ -31,8 +33,4 @@ Przejście w lewo-dół to szczelina która wymaga przesuwać się po ścianie b
 Przejście w prawo to strumień, woda jest bardzo zimna i sięga miejscami pasa. Przejście znacznie wydłużone jeżeli drużyna nie znajdzie jakiejś łódki albo tratwy albo czegoś.
 
 Przy przejściu w prawo-dół percepcja zauważy pare wyssanych kostek i ociosany kamień.
-
-
-Interakcja - Nic - Interakcja
-Pieczęć - Wodzowie - Baron
 

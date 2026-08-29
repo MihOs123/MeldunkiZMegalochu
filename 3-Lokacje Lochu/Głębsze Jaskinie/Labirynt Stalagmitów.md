@@ -18,7 +18,7 @@ jest tutaj gniazdo jakichś potworków, podróżnik-doktor któy się zgubił, j
 - 11 - Daje 2k12 wigoru ale odgryza palec
 - 12 - Zwiększa statystykę ale daje korupcje
 2 - Jest tutaj 6 beczek
-3 - Lina wisielca zawieszona przy skale sufitowej.
+3 - Krwawiący jeszcze trup jakiegoś gościa w szacie, nie ma nic przy sobie, sam sobie podcial żyły.
 4 - Sakwa, w środku także pierścionek srebrny
 5 - Miejsce takie pod obóz fajne
 6 - Podróżniczka-doktor, zgubiła się i woła o pomoc
@@ -36,3 +36,11 @@ Raczej są słabe i atakują bardziej z zaskoczenia
 e - 20 nieumarłych stojących scaryahh, są gdzie indziej
 czerwona kreska - magiczna sciana
 czerwona kropka - szkielet bez głowy
+
+Jeden gracz prowadzi pozostali patrzą gdy mijany jest jakiś korytarz ciemny w który nie idą jest jakiś spooky event creepy ahh.
+
+Zrób se może kilka zegarów na jakieś scary monster i za każdy pasujący do potwora scary event daj segment na zegarze
+- bezkost
+- meteorytowy minotaur
+- demon kradnący twarze
+- nekromanta
