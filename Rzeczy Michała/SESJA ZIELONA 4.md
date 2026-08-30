@@ -21,3 +21,10 @@ niszczy trefl 9 -> 9 serce, 10 serce
 niszczy 6 skarb
 
 wyciagneli pierscionek z wody u troglodytow
+
+pozabijali ich rozbili im garnki zabrali klucz i monete z kibla
+ukradli dwie sakwy
+
+posag goscia jest spetryfikowany tak naprawde też
+
+goodboypoint for all

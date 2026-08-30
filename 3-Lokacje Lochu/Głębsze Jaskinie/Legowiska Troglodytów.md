@@ -58,7 +58,7 @@ J - Sadzawka stojącej wody. Kapie tutaj woda z sufitu ale bardzo powoli. Czuć 
 - Są tutaj drzwi zakryte szafą jakąś
 - jest tu k4 sakiew
 - jest tu skrzynka skarb random
-11 - Mniejsza salka z legowiskami troglodytów. Śpi tu jeden troglodyta , obwieszony jest metalowym złomem jak biżuterią. Na głowie nosi kryształ, zna troche magii
+11 - Mniejsza salka z legowiskami troglodytów. Śpi tu jeden troglodyta , ~~obwieszony jest metalowym złomem jak biżuterią. Na głowie nosi kryształ, zna troche magii~~
 - Na ścianie jest mozaika księżyca nad horyzontem.
 	- Percepcja powie że jest to jakiś mechanizm
 	- Otwiera go położenie coś na piedestale w pokoju nr 7
