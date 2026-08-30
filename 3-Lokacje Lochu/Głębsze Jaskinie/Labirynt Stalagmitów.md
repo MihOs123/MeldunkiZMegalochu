@@ -1,5 +1,7 @@
 Cześć lochu w [[⚡Głębsze Jaskinie]]
 
+PLIK PDN MAPY W FOLDERZE OBRAZKI
+
 Okrągły labirynt ze stalaktytów i stalagmitów
 
 jest tutaj gniazdo jakichś potworków, podróżnik-doktor któy się zgubił, jakaś blokada którą trzeba pokonać

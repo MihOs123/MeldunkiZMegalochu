@@ -3,9 +3,9 @@ Cześć lochu w [[⚡Głębsze Jaskinie]]
 Wchodzi się tutaj liną spuszczoną po klifie z [[Kopalnie]].
 Jest to podziemny kanion uformowany w dwa stopnie, w ścianach jest wiele szczelin i tuneli, na środku płynie strumień.
 ### Zawartość
-Kanarki zorganizowały tutaj stosunkowo bezpieczne zejście z zabezpieczonych kopalni wyżej, mają tam też zbudowaną bazę. Mimo że są niedaleko raczej mają wyjebane co sie dzieje aby nie było jakiegoś mega dużego chaosu
+Kanarki zorganizowały tutaj stosunkowo bezpieczne zejście z zabezpieczonych kopalni wyżej, mają tam też zbudowaną bazę.
 
-Jest tutaj zawsze na dole ustawionych 5 strażników-kanarków, mają przygotowane czary wiążące, bariery i pułapki.
+Jest tutaj zawsze na dole ustawionych 5 kanarków w barwach miejskiej straży, mają przygotowane czary wiążące, bariery i pułapki.
 
 Dodatkowo zawsze znajdzie się tutaj co najmniej jedna/dwie z poniższych grup.
 1 - Patrol kanarków, jeżeli nie sprawdzili oczu, zębów i włosów drużyny wyżej zrobia to tutaj
@@ -21,8 +21,9 @@ Dodatkowo zawsze znajdzie się tutaj co najmniej jedna/dwie z poniższych grup.
 11 - Mag z małą obstawą, powiązany z deszczowcami
 12 - Mag z małą obstawą, niepowiązany z deszczowcami
 
-Rośnie tutaj na ścianach Porost Lochowy (Niepospolite | Leczenie 1), jest k4 (zwięsza k co sesje gdy nie były zebrane)
-Oraz 1 saletry.
+Rośnie tutaj na ścianach Porost Lochowy (Niepospolite | Leczenie 1), jest k4
+- (zwięsza k co sesje gdy nie były zebrane)
+Oraz 1 saletra.
 
 Jedna ściana tego kanionu jest bardzo mokra, woda z niej cieknie i formuje pokaźny strumień.
 ### Przejścia

@@ -7,9 +7,9 @@ Nie chce mi sie wypisywać
 ## Prowadzenie
 **Aktualna talia**:
 - 4-10 ♠PIK
-- 4-10 ♣TREFL
-- 4-10 ♥KIER
-- 4, 6-10 ♦KARO
+- 4-8, 10 ♣TREFL
+- 4-8 ♥KIER
+- 4, 7-10 ♦KARO
 - Król Pików -> Objaw Bezkosta
 
 **Niestabilność**:

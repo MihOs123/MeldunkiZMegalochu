@@ -1,5 +1,7 @@
 Cześć lochu w [[⚡Głębsze Jaskinie]]
 
+PLIK PDN MAPY W FOLDERZE OBRAZKI
+
 Rzeka tutaj ma odejście na bok do sporawej jaskini. Jest tutaj podziemna starodawna struktura, na ziemi w całej jaskinie jest warstwa szlamu.
 
 walka-interakcja-nic
