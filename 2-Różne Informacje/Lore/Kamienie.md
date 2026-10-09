@@ -8,3 +8,4 @@ Wszystkie kamienie mają odmiany słabsze, mocniejsze, lub lekko innego koloru.
 Najstarsze części miasta zbudowane są z czerwonych cegieł (glinianych) lub ciemnogranatowego wulkanitu. 
 Części zbudowane przez Hegemonie z importowanego Mlekowca
 Części współczesne strikte z Błotowca
+Tarzan wyczaja miejsce na mieszkanie 16x16x16

@@ -9,11 +9,11 @@ Obrona sali
 - Bransolety antymagiczne na oskarżonych
 
 Oskarżenia
-- Omijanie podatków szabrowniczych - wyszli nieznanym wyjściem z lochu
-- Zabójstwo na Deszczowcu - mieli jego trupa, Kanarek przyprowadzony żeby dać fałszywe zeznania
-- Nienawiść do Deszczowców - dziedziczka zeznaje że nie raz byli wobec niej wulgarni i agresywni
-- Podawanie się za namaszczeńca Blaty - kapłan miejski zeznaje że blata zaprzecza namaszczenia nie-czudów
-- Nielegalna sprzedaż broni - broń wystawiona na rynku graczy, tutaj jacyś losowi przechodnie jako świadkowie
+- Zabójstwo na Deszczowcu - mieli jego trupa, Kanarek przyprowadzony żeby dać fałszywe zeznania✖✖✖✔️
+- Nienawiść do Deszczowców - dziedziczka zeznaje że nie raz byli wobec niej wulgarni i agresywni✖✔️✔️
+- Podawanie się za namaszczeńca Blaty - kapłan miejski zeznaje że blata zaprzecza namaszczenia nie-czudów ✖✖✖ekstra-timer, kapłan chce z nimi porozmawiać
+- Nielegalna sprzedaż broni - broń wystawiona na rynku graczy, tutaj jacyś losowi przechodnie jako świadkowie ✖✔️
+- Omijanie podatków szabrowniczych - wyszli nieznanym wyjściem z lochu ✔️✔️
 
 Wsparcie
 - Garfug swoimi mocami ukrył się przed przeszukaniem i pozostał przy nosicielu.
@@ -59,3 +59,14 @@ Jeżeli chce to Fumbo normalnie tam siedzi juz pije herbatę
 
 Fumbo chętnie pomoże Garfugowi jeżeli się zobowiąże do wzniesienia jej razem z nim gdy dojdą do splotu
 Fumbo wie że tutaj dużo boskich mocy teraz wpływa na to miasto
+
+### Notatki
+pokazali garfuga arcykapłanami blaty
+zostali wygnani do podmiasta
+arcykapłan miejski mysli ze supcio jest wybrancem przez chwile
+rychu zna fishera co jest zebrakiem w podmiescie, on im daje kontakty
+tarzan tydzien bedzie
+
+spotkali sie z fumbo-molohem
+hepstain został wysłany do fumbo na deal
+- bierze deal ze fumbo mu pomaga i po 10 latach naprawia mu łape
