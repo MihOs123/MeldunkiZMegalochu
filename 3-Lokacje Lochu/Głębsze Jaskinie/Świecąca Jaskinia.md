@@ -1,8 +1,12 @@
 Cześć lochu w [[⚡Głębsze Jaskinie]]
 
-nic - zadanie - wyzwanie
-pakt krwi - uczniowie - błedny rycerz
+Bardzo spokojna jaskinia, kręcą się tutaj robaczki, na suficie jest gruby puchaty slime-mold
+Rosną też tutaj różne losowe grzybki które mogą być alchemiczne.
 
-calmful siweciaca jaskinia, skladniki alchemiczne, niegrozne stworzoanac
-sa tu jacys wacky podroznicy, błedny warlock rycerz koscioła moloha?
+Śpi tutaj wojownik z symbolem moloha na zbroi
+Wybudzony może coś opowiadać o dziwnych snach (był w krainie snów)(towarzyszył mu ten slime-mold co tu rośnie)
+- Nie powie tego od tak bo nie wie, ale spał tutaj z miesiąc, wszedł mniej więcej gdy tylko loch otworzyli i tutaj sie znalazł jakos przez tyle czasu
+- Moloh mu kazał zabić wielkiego węża głęboko w lochu ale jakoś jeszcze takowego nie znalazł
+
+Można tu pojsc spac ale moze to wyslać do krainy czarów łatwo
 

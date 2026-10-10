@@ -41,3 +41,8 @@ Odp.Mag : 1
 |---|
 |Pierwszy atak, który trafi Napastnika, zadaje tylko 1 obrażeń.|
 |Efekt / Kończyna: ⬜⬜|
+### Przejście dalej
+Portal ma 4 dziurki na klucze
+jeden juz mają
+
+nie da sie wsadzić nawet czegos mniejszego jest bariera sorry

@@ -1,4 +1,4 @@
-Cześć lochu w [[⚡Głębsze Jaskinie]]
+ Cześć lochu w [[⚡Głębsze Jaskinie]]
 
 Ruchoma lokacja, za każdym razem gdy niebiescy wejdą do jakiejs innej lokacji jest 1/20 szans że pojawi się też przejście tutaj.
 
