@@ -6,10 +6,10 @@ Jaskinie pod bunkrami uwięzionych. Kręte, pełne tuneli i szczelin i kanalikó
 Nie chce mi sie wypisywać
 ## Prowadzenie
 **Aktualna talia**:
-- 4-10 ♠PIK
-- 4-8, 10 ♣TREFL
-- 4-8 ♥KIER
-- 4, 7-10 ♦KARO
+- 5, 7-8 ♠PIK
+- 4, 6-8, 10 ♣TREFL
+- 4, 5, 7, 8 ♥KIER
+- 4, 7 ♦KARO
 - Król Pików -> Objaw Bezkosta
 
 **Niestabilność**:
