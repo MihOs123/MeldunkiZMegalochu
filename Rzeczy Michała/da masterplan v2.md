@@ -78,3 +78,8 @@ Dostępne opcje dla
 - Krwawy Księżyc (wiktoria ma)
 - Fortuna (karo ma)
 - Oni sami (ligoda jak wskoczy potencjalnie zboostuje żone lol)
+
+
+# notatki
+jedna sesja aktu trzeciego
+akt trzeci w lochu
