@@ -8,6 +8,8 @@
 	- insynuować że krwawy księżyć jest tym co próbuje bronić świat przed zmiennokształtną inwazja - pojawił się w podobnym czasie
 	- zasiać ziarno niezaufania do dobrego księżyca
 	- zdobyć zaufanie poprzez danie ekstra klucza +1 klucz dabljuz
+
+wiktoria pomaga zamordowac arcykaplana gastakaru i wstaic w sekrecie petra na jego miejsce?
 ### Karolina / Julka
 - Julka ma sen nasłany od Przyjaznego Księżyca
 	- Wysoka, wilgotna jaskinia z otworem na niebo.
@@ -25,16 +27,21 @@
 - Baba zielarka jest w pełni zmiennkształtna, nie jest człowiekiem wogóle, ba, bardzo dużo ludzi już w mieście jest zmiennokształtna, można czuć oczy na swoich plechach nieważne gdzie się chodzi podczas dnia
 
 - Atak na dom zmiennokształtnych
-	- pomogą kanarki, ale tak poza ek
-
+	- pomogą kanarki, ale tak poza ekranem, będą szturmować tunele pod domem podczas gdy dziewczyny + moze 2 cieciow ogarniaja dom
+	- bez kanarkow bedzie ciezko w huj, ciagle zermanie beda wyłazic z podziemi moze nawet sie zrobi lowkey powstanie zermanskie pogrom typeshit
+	- ALBO może zaczna uciekac do lochu i to będzie nastepna sesja już taka normalna ze wszystkimi juz ten wyscig do portalu
 
 ### Ligoda / Targon
+
+
+
+
 - Ligoda : Idzie na statek, nurkuje we mgle, oddziela go to od niewoli na niego nalozonej tymczasowo, moze bedzie cos z tego zrobic jezeli bedzie chcial, moze dostanie jakas korupcje albo cos dziwnego luki w pamieci czy cos | co chce ta czarodziejka dla kogo ona wogole pracuje?
 - Targon : Napadnięty w domu na dworze przez driady ? Jest pewne ze teraz jak blata przyszla i jest energia magiczna to beda go napastowac
 	- +1 klucz od nieznanego człowieka?
 - o huj chodzi z ta baba co daje ligodzie questy kim ona jest wogole
 
-
+- przy okazji tropienie złydnych ?????
 
 
 
