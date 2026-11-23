@@ -17,30 +17,13 @@ Celność : 1
 Unik : 2  
 Odp.Mag : 1
 
-|Atak PASZCZĄ|
-|---|
-|Zadaje 9 obrażeń istocie na tym samym polu.|
-|[ATAK] \| Kończyna: ⬜⬜⬜⬜⬜⬜⬜⬜⬜|
+| Atak OGONEM                                 |
+| ------------------------------------------- |
+| Zadaje 4 obrażeń istocie na tym samym polu. |
+| [ATAK] \| Kończyna: ⬜                       |
 
-|Atak OGONEM|
-|---|
-|Zadaje 4 obrażeń istocie na tym samym polu.|
-|[ATAK] \| Kończyna: ⬜⬜⬜⬜⬜|
+robale mu oczy zasłaniają, śmierdzi 
 
-|Łuszczaste CIelsko|
-|---|
-|Ta kończyna przyjmuje obrażenia jako pierwsza.|
-|Kończyna: ⬜⬜⬜⬜|
-
-|Mnogość Ataków|
-|---|
-|Napastnik wykonuje dwa ataki / interakcje podczas swojej tury.|
-|Efekt / Kończyna: ⬜⬜|
-
-|Utwardzenie|
-|---|
-|Pierwszy atak, który trafi Napastnika, zadaje tylko 1 obrażeń.|
-|Efekt / Kończyna: ⬜⬜|
 ### Przejście dalej
 Portal ma 4 dziurki na klucze
 jeden juz mają
